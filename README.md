@@ -139,7 +139,7 @@ This page serves as the landing page for the dashboard and provides a quick over
 
 # Team Analysis
 
-![Team Analysis](Images/Team Stats.png)
+![Team Analysis](Images/Team_Stats.png)
 
 The Team Analysis page compares every participating nation using advanced football metrics.
 
@@ -162,7 +162,7 @@ The page enables users to compare attacking efficiency, defensive stability, and
 
 # Player Analysis
 
-![Player Analysis](Images/Player Game.png)
+![Player Analysis](Images/Player_Stats.png)
 
 The Player Analysis page focuses on individual performances throughout the tournament.
 
@@ -184,7 +184,7 @@ Interactive filters allow users to analyse players by position and nationality.
 
 # Match Analysis
 
-![Match Analysis](Images/Match Stats.png)
+![Match Analysis](Images/Match_Stats.png)
 
 The Match Analysis page provides a detailed breakdown of every fixture played during the tournament.
 

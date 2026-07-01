@@ -1,6 +1,4 @@
 create database WC2026;
-create database dryrunwc2026;
-use dryrunwc2026;
 use WC2026;
 
 

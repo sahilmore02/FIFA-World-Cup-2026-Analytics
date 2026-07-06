@@ -214,3 +214,45 @@ goal_no,scored_for,scored_by,minute,half,assist_by,goal_type,scored_ag,match_no
 213,Argentina,Lionel Messi,80,2,,Free Kick,Jordan,72
 214,Algeria,Riyad Mahrez,93,2,Houssem Aouar,Regular,Austria,71
 215,Austria,Sasa Kalajdzic,96,2,Michael Gregoritsch,Header,Algeria,71
+216,Canada,Stephen Eustaquio,92,2,,Regular,South Africa,73
+217,Japan,Kaishu Sano,29,1,,Regular,Brazil,74
+218,Brazil,Casemiro,56,2,Gabriel Magalhaes,Header,Japan,74
+219,Brazil,Gabriel Martinelli,95,2,Bruno Guimaraes,Regular,Japan,74
+220,Paraguay,Julio Enciso,42,1,Matías Galarza,Header,Germany,75
+221,Germany,Kai Havertz,54,2,Florian Wirtz,Header,Paraguay,75
+222,Netherlands,Cody Gakpo,72,2,Crysencio Summerville,Regular,Morocco,76
+223,Morocco,Issa Diop,91,2,Chemsdine Talbi,Header,Netherlands,76
+224,Norway,Antonio Nusa,39,1,Martin Ødegaard,Regular,Ivory Coast,77
+225,Ivory Coast,Amad Diallo,74,2,Nicolas Pepe,Regular,Norway,77
+226,Norway,Erling Haaland,86,2,Patrick Berg,Regular,Ivory Coast,77
+227,France,Kylian Mbappé,45,1,Ousmane Dembélé,Regular,Sweden,78
+228,France,Bradley Barcola,53,2,Michael Olise,Regular,Sweden,78
+229,France,Kylian Mbappé,74,2,Michael Olise,Regular,Sweden,78
+230,Mexico,Julian Quinones,22,1,Roberto Alvarado,Regular,Ecuador,79
+231,Mexico,Raul Jimenez,31,1,Julian Quinones,Regular,Ecuador,79
+232,DR Congo,Brian Cipenga,7,1,Chancel Mbemba,Regular,England,80
+233,England,Harry Kane,75,2,Anthony Gordon,Header,DR Congo,80
+234,England,Harry Kane,86,2,Anthony Gordon,Regular,DR Congo,80
+235,Senegal,Habib Diarra,24,1,,Regular,Belgium,81
+236,Senegal,Ismaïla Sarr,51,2,Moussa Niakhaté,Regular,Belgium,81
+237,Belgium,Romelu Lukaku,86,2,Thomas Meunier,Regular,Senegal,81
+238,Belgium,Youri Tielemans,89,2,Leandro Trossard,Header,Senegal,81
+239,Belgium,Youri Tielemans,125,ET-2,,Penalty,Senegal,81
+240,USA,Folarin Balogun,45,1,,Regular,Bosnia and Herzegovina,82
+241,USA,Malik Tillman,82,2,,Free Kick,Bosnia and Herzegovina,82
+242,Spain,Mikel Oyarzabal,36,1,Marc Cucurella,Regular,Austria,83
+243,Spain,Pedro Porro,66,2,Álex Baena,Header,Austria,83
+244,Spain,Mikel Oyarzabal,89,2,Marc Cucurella,Regular,Austria,83
+245,Croatia,Ivan Perisic,53,2,,Regular,Portugal,84
+246,Portugal,Cristiano Ronaldo,68,2,,Penalty,Croatia,84
+247,Portugal,Gonçalo Ramos,94,2,Rafael Leão,Header,Croatia,84
+248,Switzerland,Breel Embolo,10,1,Johan Manzambi,Regular,Algeria,85
+249,Switzerland,Dan Ndoye,46,2,,Regular,Algeria,85
+250,Egypt,Emam Ashour,13,1,Karim Hafez,Header,Australia,86
+251,Australia,Mohamed Hany,55,2,,Own goal,Egypt,86
+252,Argentina,Lionel Messi,29,1,Lisandro Martínez,Regular,Cape Verde,87
+253,Cape Verde,Deroy Duarte,59,2,Ryan Mendes,Regular,Argentina,87
+254,Argentina,Lisandro Martínez,92,ET-1,Alexis Mac Allister,Regular,Cape Verde,87
+255,Cape Verde,Sidny Lopes Cabral,103,ET-1,Yannick Semedo,Regular,Argentina,87
+256,Argentina,Diney Borges,111,ET-2,,Own goal,Cape Verde,87
+257,Colombia,Jhon Arias,14,1,Luis Javier Suárez,Regular,Ghana,88

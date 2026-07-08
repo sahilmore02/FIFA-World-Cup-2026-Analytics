@@ -1,29 +1,29 @@
 PLAYER,POSITION,TEAM,GOALS,ASSISTS,xG,BCM,DRIBBLES,CHANCES_CREATED,TACKLES,RECOVERIES,SAVES
-Santiago Gimenez,Forward,Mexico,0.0,0.0,0.1,1.0,0.0,0.0,0.0,0.0,0.0
-Raul Jimenez,Forward,Mexico,2.0,0.0,1.55,2.0,0.0,2.0,1.0,1.0,0.0
-Julian Quinones,Forward,Mexico,3.0,1.0,1.39,1.0,6.0,7.0,3.0,10.0,0.0
+Santiago Gimenez,Forward,Mexico,0.0,0.0,0.18,1.0,0.0,0.0,0.0,0.0,0.0
+Raul Jimenez,Forward,Mexico,3.0,0.0,2.73,2.0,0.0,2.0,1.0,1.0,0.0
+Julian Quinones,Forward,Mexico,4.0,1.0,1.61,1.0,6.0,10.0,4.0,15.0,0.0
 Armando Gonzalez,Forward,Mexico,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-Roberto Alvarado,Forward,Mexico,0.0,3.0,0.22,0.0,4.0,10.0,6.0,9.0,0.0
+Roberto Alvarado,Forward,Mexico,0.0,3.0,0.22,0.0,7.0,13.0,8.0,10.0,0.0
 Guillermo Martinez,Forward,Mexico,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0
-Gilberto Mora,Midfielder,Mexico,0.0,0.0,0.11,0.0,2.0,4.0,1.0,6.0,0.0
-Edson Alvarez,Midfielder,Mexico,0.0,0.0,0.0,0.0,1.0,0.0,6.0,7.0,0.0
+Gilberto Mora,Midfielder,Mexico,0.0,0.0,0.15,0.0,2.0,5.0,3.0,7.0,0.0
+Edson Alvarez,Midfielder,Mexico,0.0,0.0,0.22,0.0,1.0,1.0,8.0,9.0,0.0
 Obed Vargas,Midfielder,Mexico,0.0,0.0,0.02,0.0,0.0,0.0,2.0,7.0,0.0
-Alvaro Fidalgo,Midfielder,Mexico,1.0,0.0,0.21,0.0,0.0,1.0,0.0,1.0,0.0
+Alvaro Fidalgo,Midfielder,Mexico,1.0,0.0,0.27,0.0,0.0,4.0,0.0,1.0,0.0
 Cesar Huerta,Forward,Mexico,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0
 Alexis Vega,Forward,Mexico,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 Orbelin Pineda,Midfielder,Mexico,0.0,0.0,0.06,0.0,1.0,1.0,0.0,1.0,0.0
-Brian Gutierrez,Forward,Mexico,0.0,0.0,0.2,0.0,1.0,4.0,2.0,3.0,0.0
+Brian Gutierrez,Forward,Mexico,0.0,0.0,0.23,0.0,1.0,5.0,2.0,4.0,0.0
 Luis Chavez,Midfielder,Mexico,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0
-Johan Vasquez,Defender,Mexico,0.0,0.0,0.1,0.0,0.0,0.0,1.0,9.0,0.0
+Johan Vasquez,Defender,Mexico,0.0,0.0,0.1,0.0,0.0,1.0,3.0,10.0,0.0
 Mateo Chavez,Defender,Mexico,1.0,0.0,0.43,0.0,2.0,1.0,1.0,4.0,0.0
 Cesar Montes,Defender,Mexico,0.0,0.0,0.09,1.0,1.0,0.0,2.0,4.0,0.0
-Jorge Sanchez,Defender,Mexico,0.0,1.0,0.03,0.0,2.0,5.0,5.0,9.0,0.0
+Jorge Sanchez,Defender,Mexico,0.0,1.0,0.03,0.0,2.0,5.0,9.0,12.0,0.0
 Israel Reyes,Defender,Mexico,0.0,0.0,0.04,0.0,0.0,2.0,2.0,6.0,0.0
-Erik Lira,Defender,Mexico,0.0,1.0,0.0,0.0,1.0,3.0,5.0,13.0,0.0
-Jesus Gallardo,Defender,Mexico,0.0,0.0,0.09,0.0,1.0,0.0,2.0,7.0,0.0
-Luis Romo,Defender,Mexico,1.0,1.0,0.09,0.0,1.0,3.0,6.0,8.0,0.0
+Erik Lira,Defender,Mexico,0.0,1.0,0.0,0.0,2.0,5.0,7.0,18.0,0.0
+Jesus Gallardo,Defender,Mexico,0.0,0.0,0.12,0.0,2.0,1.0,3.0,8.0,0.0
+Luis Romo,Defender,Mexico,1.0,1.0,0.11,0.0,1.0,3.0,6.0,9.0,0.0
 Guillermo Ochoa,Goalkeeper,Mexico,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-Raul Rangel,Goalkeeper,Mexico,0.0,0.0,0.0,0.0,0.0,0.0,0.0,26.0,6.0
+Raul Rangel,Goalkeeper,Mexico,0.0,0.0,0.0,0.0,0.0,0.0,0.0,37.0,8.0
 Lyle Foster,Forward,South Africa,0.0,0.0,0.04,0.0,0.0,0.0,0.0,0.0,0.0
 Evidence Makgopa,Forward,South Africa,0.0,0.0,0.74,1.0,1.0,0.0,4.0,5.0,0.0
 Iqraam Rayners,Forward,South Africa,0.0,0.0,0.06,0.0,1.0,0.0,0.0,0.0,0.0
@@ -84,27 +84,28 @@ Tomas Holes,Defender,Czechia,0.0,0.0,0.0,0.0,1.0,0.0,4.0,6.0,0.0
 Stepan Chaloupek,Defender,Czechia,0.0,0.0,0.0,0.0,0.0,0.0,1.0,2.0,0.0
 Jaroslav Zeleny,Defender,Czechia,0.0,0.0,0.01,0.0,2.0,0.0,0.0,5.0,0.0
 Matej Kovar,Goalkeeper,Czechia,0.0,0.0,0.0,0.0,0.0,0.0,0.0,13.0,9.0
-Jonathan David,Forward,Canada,3.0,0.0,2.77,1.0,0.0,3.0,1.0,3.0,0.0
-Promise David,Forward,Canada,1.0,1.0,0.84,0.0,0.0,1.0,3.0,6.0,0.0
-Tani Oluwaseyi,Forward,Canada,0.0,0.0,0.52,1.0,2.0,2.0,2.0,5.0,0.0
+Jonathan David,Forward,Canada,3.0,0.0,3.05,1.0,1.0,3.0,4.0,6.0,0.0
+Promise David,Forward,Canada,1.0,1.0,0.84,0.0,0.0,2.0,3.0,6.0,0.0
+Tani Oluwaseyi,Forward,Canada,0.0,0.0,0.84,2.0,3.0,2.0,5.0,8.0,0.0
 Cyle Larin,Forward,Canada,2.0,0.0,1.92,2.0,1.0,2.0,0.0,5.0,0.0
-Tajon Buchanan,Forward,Canada,0.0,0.0,0.78,2.0,5.0,3.0,6.0,9.0,0.0
+Jayden Nelson,Forward,Canada,0.0,0.0,0.03,0.0,2.0,0.0,0.0,1.0,0.0
+Tajon Buchanan,Forward,Canada,0.0,0.0,0.81,2.0,5.0,3.0,7.0,15.0,0.0
 Ismael Kone,Midfielder,Canada,0.0,0.0,0.07,0.0,1.0,1.0,2.0,10.0,0.0
-Stephen Eustaquio,Midfielder,Canada,1.0,0.0,0.15,0.0,1.0,9.0,7.0,21.0,0.0
-Ali Ahmed,Forward,Canada,0.0,0.0,0.23,0.0,1.0,2.0,3.0,6.0,0.0
+Stephen Eustaquio,Midfielder,Canada,1.0,0.0,0.15,0.0,2.0,12.0,11.0,26.0,0.0
+Ali Ahmed,Forward,Canada,0.0,0.0,0.23,0.0,1.0,3.0,7.0,10.0,0.0
 Nathan-Dylan Saliba,Midfielder,Canada,1.0,2.0,0.14,0.0,4.0,4.0,6.0,15.0,0.0
 Liam Millar,Forward,Canada,0.0,0.0,0.02,0.0,4.0,4.0,4.0,5.0,0.0
-Jacob Shaffelburg,Forward,Canada,0.0,0.0,0.09,0.0,0.0,4.0,1.0,8.0,0.0
-Jonathan Osorio,Midfielder,Canada,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Jacob Shaffelburg,Forward,Canada,0.0,0.0,0.09,0.0,0.0,5.0,1.0,10.0,0.0
+Jonathan Osorio,Midfielder,Canada,0.0,0.0,0.02,0.0,0.0,0.0,0.0,1.0,0.0
 Mathieu Choiniere,Midfielder,Canada,0.0,0.0,0.0,0.0,0.0,1.0,1.0,3.0,0.0
 Alphonso Davies,Defender,Canada,0.0,0.0,0.0,0.0,1.0,1.0,0.0,1.0,0.0
-Niko Sigur,Defender,Canada,0.0,0.0,0.04,0.0,0.0,1.0,0.0,2.0,0.0
-Alistair Johnston,Defender,Canada,0.0,0.0,0.24,1.0,3.0,9.0,1.0,12.0,0.0
+Niko Sigur,Defender,Canada,0.0,0.0,0.04,0.0,0.0,2.0,1.0,5.0,0.0
+Alistair Johnston,Defender,Canada,0.0,0.0,0.29,1.0,3.0,9.0,2.0,16.0,0.0
 Derek Cornelius,Defender,Canada,0.0,0.0,0.76,2.0,0.0,1.0,5.0,15.0,0.0
-Moise Bombito,Defender,Canada,0.0,0.0,0.26,1.0,0.0,0.0,1.0,0.0,0.0
-Richie Laryea,Defender,Canada,0.0,0.0,0.29,1.0,5.0,5.0,9.0,17.0,0.0
-Luc De Fougerolles,Defender,Canada,0.0,0.0,0.07,0.0,0.0,2.0,8.0,11.0,0.0
-Maxime Crepeau,Goalkeeper,Canada,0.0,0.0,0.0,0.0,0.0,0.0,1.0,32.0,5.0
+Moise Bombito,Defender,Canada,0.0,0.0,0.26,1.0,0.0,0.0,1.0,1.0,0.0
+Richie Laryea,Defender,Canada,0.0,0.0,0.29,1.0,5.0,5.0,10.0,20.0,0.0
+Luc De Fougerolles,Defender,Canada,0.0,0.0,0.18,0.0,0.0,3.0,8.0,13.0,0.0
+Maxime Crepeau,Goalkeeper,Canada,0.0,0.0,0.0,0.0,0.0,0.0,1.0,37.0,6.0
 Edin Dzeko,Forward,Bosnia and Herzegovina,0.0,0.0,0.23,1.0,0.0,1.0,0.0,3.0,0.0
 Esmir Bajraktarevic,Forward,Bosnia and Herzegovina,0.0,0.0,0.07,0.0,1.0,4.0,0.0,9.0,0.0
 Ermedin Demirovic,Forward,Bosnia and Herzegovina,0.0,0.0,0.13,1.0,2.0,0.0,4.0,9.0,0.0
@@ -150,68 +151,69 @@ Sultan Al-Brake,Defender,Qatar,0.0,0.0,0.0,0.0,1.0,1.0,2.0,3.0,0.0
 Alhashmi Mohialdin,Defender,Qatar,0.0,0.0,0.0,0.0,0.0,0.0,3.0,0.0,0.0
 Mahmud Abunad,Goalkeeper,Qatar,0.0,0.0,0.0,0.0,0.0,0.0,0.0,20.0,12.0
 Noah Okafor,Forward,Switzerland,0.0,0.0,0.08,0.0,0.0,0.0,2.0,3.0,0.0
-Breel Embolo,Forward,Switzerland,2.0,2.0,2.96,2.0,4.0,8.0,1.0,4.0,0.0
-Zeki Amdouni,Forward,Switzerland,0.0,0.0,0.02,0.0,1.0,1.0,2.0,0.0,0.0
+Breel Embolo,Forward,Switzerland,2.0,2.0,2.96,2.0,4.0,8.0,1.0,5.0,0.0
+Zeki Amdouni,Forward,Switzerland,0.0,0.0,0.02,0.0,2.0,1.0,2.0,1.0,0.0
 Cedric Itten,Forward,Switzerland,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
-Granit Xhaka,Midfielder,Switzerland,1.0,0.0,0.9,0.0,0.0,3.0,5.0,32.0,0.0
-Ardon Jashari,Midfielder,Switzerland,0.0,0.0,0.01,0.0,0.0,0.0,0.0,0.0,0.0
-Dan Ndoye,Forward,Switzerland,1.0,0.0,0.59,2.0,7.0,2.0,4.0,9.0,0.0
+Granit Xhaka,Midfielder,Switzerland,1.0,0.0,0.94,0.0,2.0,3.0,5.0,37.0,0.0
+Ardon Jashari,Midfielder,Switzerland,0.0,0.0,0.01,0.0,0.0,1.0,1.0,0.0,0.0
+Dan Ndoye,Forward,Switzerland,1.0,0.0,0.64,2.0,8.0,2.0,6.0,16.0,0.0
 Johan Manzambi,Midfielder,Switzerland,3.0,2.0,0.77,1.0,5.0,3.0,0.0,5.0,0.0
-Denis Zakaria,Midfielder,Switzerland,0.0,0.0,0.65,0.0,3.0,1.0,6.0,12.0,0.0
-Ruben Vargas,Forward,Switzerland,2.0,1.0,0.98,2.0,6.0,8.0,4.0,6.0,0.0
-Djibril Sow,Midfielder,Switzerland,0.0,0.0,0.0,0.0,0.0,0.0,1.0,4.0,0.0
-Remo Freuler,Midfielder,Switzerland,0.0,0.0,0.06,0.0,1.0,3.0,6.0,10.0,0.0
-Fabian Rieder,Forward,Switzerland,0.0,0.0,0.81,1.0,1.0,3.0,4.0,1.0,0.0
+Denis Zakaria,Midfielder,Switzerland,0.0,0.0,0.65,0.0,4.0,1.0,7.0,14.0,0.0
+Ruben Vargas,Forward,Switzerland,2.0,1.0,0.98,2.0,6.0,9.0,5.0,7.0,0.0
+Djibril Sow,Midfielder,Switzerland,0.0,0.0,0.19,0.0,0.0,1.0,1.0,4.0,0.0
+Remo Freuler,Midfielder,Switzerland,0.0,0.0,0.06,0.0,1.0,3.0,7.0,18.0,0.0
+Fabian Rieder,Forward,Switzerland,0.0,0.0,0.92,1.0,3.0,3.0,5.0,2.0,0.0
 Michel Aebischer,Midfielder,Switzerland,0.0,0.0,0.36,1.0,2.0,4.0,5.0,8.0,0.0
-Miro Muheim,Midfielder,Switzerland,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
-Silvan Widmer,Midfielder,Switzerland,0.0,0.0,0.0,0.0,0.0,0.0,1.0,3.0,0.0
+Miro Muheim,Midfielder,Switzerland,0.0,0.0,0.0,0.0,0.0,0.0,1.0,4.0,0.0
+Silvan Widmer,Midfielder,Switzerland,0.0,0.0,0.0,0.0,0.0,0.0,3.0,5.0,0.0
 Christian Fassnacht,Forward,Switzerland,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
-Manuel Akanji,Defender,Switzerland,0.0,0.0,0.27,0.0,1.0,4.0,7.0,16.0,0.0
-Ricardo Rodriguez,Defender,Switzerland,0.0,0.0,0.01,0.0,0.0,4.0,8.0,21.0,0.0
-Nico Elvedi,Defender,Switzerland,0.0,0.0,0.4,0.0,0.0,2.0,3.0,9.0,0.0
+Manuel Akanji,Defender,Switzerland,0.0,0.0,0.27,0.0,1.0,4.0,8.0,20.0,0.0
+Ricardo Rodriguez,Defender,Switzerland,0.0,0.0,0.01,0.0,0.0,4.0,9.0,21.0,0.0
+Nico Elvedi,Defender,Switzerland,0.0,0.0,0.4,0.0,1.0,2.0,3.0,14.0,0.0
 Luca Jaquez,Defender,Switzerland,0.0,0.0,0.0,0.0,1.0,0.0,2.0,0.0,0.0
-Gregor Kobel,Goalkeeper,Switzerland,0.0,0.0,0.0,0.0,0.0,0.0,0.0,33.0,13.0
-Vinicius Junior,Forward,Brazil,4.0,1.0,3.87,3.0,10.0,7.0,2.0,7.0,0.0
-Neymar,Forward,Brazil,0.0,0.0,0.01,0.0,0.0,3.0,0.0,1.0,0.0
-Endrick,Forward,Brazil,0.0,0.0,0.08,0.0,0.0,0.0,2.0,5.0,0.0
-Matheus Cunha,Forward,Brazil,3.0,0.0,1.39,0.0,2.0,1.0,6.0,6.0,0.0
-Gabriel Martinelli,Forward,Brazil,1.0,0.0,0.47,0.0,0.0,2.0,0.0,1.0,0.0
+Gregor Kobel,Goalkeeper,Switzerland,0.0,0.0,0.0,0.0,0.0,0.0,0.0,42.0,16.0
+Vinicius Junior,Forward,Brazil,4.0,1.0,4.04,4.0,16.0,9.0,3.0,8.0,0.0
+Neymar,Forward,Brazil,1.0,0.0,0.82,0.0,1.0,4.0,0.0,2.0,0.0
+Endrick,Forward,Brazil,0.0,0.0,0.66,1.0,0.0,0.0,2.0,6.0,0.0
+Matheus Cunha,Forward,Brazil,3.0,0.0,1.42,0.0,2.0,1.0,6.0,7.0,0.0
+Gabriel Martinelli,Forward,Brazil,1.0,0.0,0.47,1.0,1.0,4.0,0.0,7.0,0.0
 Igor Thiago,Forward,Brazil,0.0,0.0,0.66,1.0,0.0,0.0,2.0,2.0,0.0
 Raphinha,Forward,Brazil,0.0,0.0,0.4,0.0,1.0,3.0,0.0,3.0,0.0
-Casemiro,Midfielder,Brazil,1.0,0.0,0.64,1.0,1.0,1.0,12.0,15.0,0.0
+Casemiro,Midfielder,Brazil,1.0,0.0,0.66,1.0,1.0,3.0,14.0,18.0,0.0
 Lucas Paqueta,Midfielder,Brazil,0.0,1.0,0.37,0.0,3.0,9.0,8.0,21.0,0.0
-Rayan,Forward,Brazil,0.0,1.0,0.72,1.0,4.0,7.0,4.0,7.0,0.0
-Bruno Guimaraes,Midfielder,Brazil,0.0,4.0,0.24,1.0,2.0,9.0,9.0,19.0,0.0
+Rayan,Forward,Brazil,0.0,1.0,0.81,1.0,6.0,10.0,4.0,8.0,0.0
+Bruno Guimaraes,Midfielder,Brazil,0.0,4.0,1.05,2.0,2.0,10.0,11.0,20.0,0.0
 Luiz Henrique,Forward,Brazil,0.0,0.0,0.0,0.0,0.0,1.0,0.0,2.0,0.0
-Danilo Santos,Midfielder,Brazil,0.0,0.0,0.09,0.0,0.0,0.0,1.0,2.0,0.0
+Danilo Santos,Midfielder,Brazil,0.0,0.0,0.09,0.0,0.0,0.0,5.0,4.0,0.0
 Fabinho,Midfielder,Brazil,0.0,0.0,0.02,0.0,0.0,0.0,1.0,3.0,0.0
-Gabriel Magalhaes,Defender,Brazil,0.0,1.0,0.07,0.0,0.0,2.0,3.0,15.0,0.0
-Marquinhos,Defender,Brazil,0.0,0.0,0.09,0.0,0.0,1.0,4.0,12.0,0.0
-Danilo,Defender,Brazil,0.0,0.0,0.0,0.0,1.0,2.0,2.0,13.0,0.0
+Gabriel Magalhaes,Defender,Brazil,0.0,1.0,0.07,0.0,0.0,3.0,5.0,15.0,0.0
+Marquinhos,Defender,Brazil,0.0,0.0,0.09,0.0,0.0,1.0,5.0,15.0,0.0
+Danilo,Defender,Brazil,0.0,0.0,0.07,0.0,1.0,2.0,7.0,19.0,0.0
 Alex Sandro,Defender,Brazil,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-Douglas Santos,Defender,Brazil,0.0,0.0,0.14,1.0,1.0,3.0,12.0,17.0,0.0
+Douglas Santos,Defender,Brazil,0.0,0.0,0.14,1.0,1.0,3.0,18.0,24.0,0.0
 Roger Ibanez,Defender,Brazil,0.0,0.0,0.0,0.0,1.0,0.0,2.0,2.0,0.0
-Alisson,Goalkeeper,Brazil,0.0,0.0,0.0,0.0,1.0,0.0,0.0,22.0,11.0
+Alisson,Goalkeeper,Brazil,0.0,0.0,0.0,0.0,1.0,0.0,0.0,29.0,14.0
+Ederson,Goalkeeper,Brazil,0.0,0.0,0.03,0.0,0.0,0.0,0.0,0.0,0.0
 Ayoub El Kaabi,Forward,Morocco,0.0,0.0,0.17,0.0,1.0,0.0,3.0,1.0,0.0
-Soufiane Rahimi,Forward,Morocco,1.0,1.0,0.86,1.0,2.0,1.0,1.0,2.0,0.0
+Soufiane Rahimi,Forward,Morocco,2.0,1.0,1.44,2.0,2.0,1.0,3.0,3.0,0.0
 Ayoube Amaimouni Echghouyab,Forward,Morocco,0.0,0.0,0.23,1.0,1.0,0.0,1.0,3.0,0.0
-Brahim Diaz,Forward,Morocco,0.0,2.0,0.37,1.0,5.0,6.0,2.0,15.0,0.0
-Azzedine Ounahi,Midfielder,Morocco,0.0,0.0,0.04,0.0,5.0,7.0,1.0,14.0,0.0
-Bilal El Khannouss,Midfielder,Morocco,0.0,0.0,0.31,1.0,7.0,6.0,9.0,24.0,0.0
-Ismael Saibari,Forward,Morocco,3.0,0.0,1.75,4.0,4.0,4.0,3.0,7.0,0.0
-Sofyan Amrabat,Midfielder,Morocco,0.0,0.0,0.0,0.0,0.0,0.0,2.0,5.0,0.0
-Neil El Aynaoui,Midfielder,Morocco,0.0,0.0,0.48,1.0,1.0,3.0,16.0,15.0,0.0
-Chemsdine Talbi,Forward,Morocco,0.0,1.0,0.05,0.0,1.0,2.0,0.0,5.0,0.0
+Brahim Diaz,Forward,Morocco,0.0,4.0,0.37,1.0,5.0,8.0,3.0,18.0,0.0
+Azzedine Ounahi,Midfielder,Morocco,2.0,0.0,0.28,0.0,7.0,8.0,1.0,16.0,0.0
+Bilal El Khannouss,Midfielder,Morocco,0.0,0.0,0.31,1.0,7.0,7.0,11.0,29.0,0.0
+Ismael Saibari,Forward,Morocco,3.0,0.0,1.75,4.0,4.0,4.0,3.0,8.0,0.0
+Sofyan Amrabat,Midfielder,Morocco,0.0,0.0,0.0,0.0,0.0,0.0,2.0,6.0,0.0
+Neil El Aynaoui,Midfielder,Morocco,0.0,0.0,0.48,1.0,1.0,3.0,16.0,19.0,0.0
+Chemsdine Talbi,Forward,Morocco,0.0,1.0,0.05,0.0,2.0,2.0,2.0,7.0,0.0
 Gessime Yassine,Midfielder,Morocco,1.0,0.0,0.9,0.0,2.0,0.0,3.0,4.0,0.0
-Ayyoub Bouaddi,Midfielder,Morocco,0.0,0.0,0.08,0.0,4.0,0.0,7.0,14.0,0.0
+Ayyoub Bouaddi,Midfielder,Morocco,0.0,0.0,0.08,0.0,5.0,0.0,8.0,17.0,0.0
 Samir El Mourabet,Midfielder,Morocco,0.0,0.0,0.0,0.0,1.0,2.0,1.0,6.0,0.0
-Achraf Hakimi,Defender,Morocco,1.0,1.0,2.06,1.0,6.0,14.0,9.0,18.0,0.0
-Noussair Mazraoui,Defender,Morocco,0.0,0.0,0.0,0.0,3.0,0.0,10.0,12.0,0.0
+Achraf Hakimi,Defender,Morocco,1.0,2.0,2.06,1.0,7.0,15.0,11.0,21.0,0.0
+Noussair Mazraoui,Defender,Morocco,0.0,0.0,0.0,0.0,4.0,0.0,13.0,17.0,0.0
 Chadi Riad,Defender,Morocco,0.0,1.0,0.03,0.0,2.0,1.0,2.0,6.0,0.0
 Anass Salah-Eddine,Defender,Morocco,0.0,0.0,0.02,0.0,0.0,1.0,4.0,5.0,0.0
-Issa Diop,Defender,Morocco,1.0,0.0,0.18,0.0,0.0,0.0,0.0,4.0,0.0
-Redouane Halhal,Defender,Morocco,0.0,0.0,0.0,0.0,0.0,0.0,1.0,4.0,0.0
-Bono,Goalkeeper,Morocco,0.0,0.0,0.0,0.0,0.0,0.0,0.0,26.0,6.0
+Issa Diop,Defender,Morocco,1.0,0.0,0.18,0.0,0.0,0.0,0.0,5.0,0.0
+Redouane Halhal,Defender,Morocco,0.0,0.0,0.0,0.0,0.0,0.0,1.0,10.0,0.0
+Bono,Goalkeeper,Morocco,0.0,0.0,0.0,0.0,0.0,0.0,0.0,33.0,9.0
 Wilson Isidor,Forward,Haiti,1.0,0.0,0.15,0.0,0.0,2.0,1.0,2.0,0.0
 Duckens Nazon,Forward,Haiti,0.0,0.0,0.05,0.0,1.0,0.0,0.0,0.0,0.0
 Frantzdy Pierrot,Forward,Haiti,0.0,0.0,0.65,1.0,0.0,3.0,0.0,1.0,0.0
@@ -250,53 +252,54 @@ Tony Ralston,Defender,Scotland,0.0,0.0,0.06,0.0,0.0,1.0,0.0,0.0,0.0
 Jack Hendry,Defender,Scotland,0.0,0.0,0.0,0.0,0.0,1.0,2.0,4.0,0.0
 Grant Hanley,Defender,Scotland,0.0,0.0,0.0,0.0,0.0,0.0,1.0,4.0,0.0
 Angus Gunn,Goalkeeper,Scotland,0.0,0.0,0.0,0.0,0.0,0.0,1.0,26.0,8.0
-Christian Pulisic,Forward,USA,0.0,1.0,0.67,1.0,7.0,3.0,2.0,3.0,0.0
-Folarin Balogun,Forward,USA,3.0,0.0,1.23,2.0,2.0,0.0,0.0,2.0,0.0
-Ricardo Pepi,Forward,USA,0.0,0.0,0.4,0.0,2.0,2.0,1.0,5.0,0.0
+Christian Pulisic,Forward,USA,0.0,1.0,0.67,1.0,9.0,3.0,2.0,6.0,0.0
+Folarin Balogun,Forward,USA,3.0,0.0,1.66,2.0,2.0,0.0,0.0,3.0,0.0
+Ricardo Pepi,Forward,USA,0.0,0.0,0.4,0.0,3.0,2.0,2.0,5.0,0.0
 Haji Wright,Forward,USA,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 Tim Weah,Forward,USA,0.0,0.0,0.05,0.0,1.0,0.0,0.0,2.0,0.0
-Weston McKennie,Midfielder,USA,0.0,0.0,0.59,1.0,6.0,8.0,8.0,13.0,0.0
-Malik Tillman,Midfielder,USA,1.0,1.0,0.83,1.0,5.0,6.0,6.0,18.0,0.0
-Giovanni Reyna,Midfielder,USA,1.0,0.0,0.17,0.0,1.0,0.0,0.0,3.0,0.0
-Tyler Adams,Midfielder,USA,0.0,0.0,0.0,0.0,2.0,2.0,7.0,15.0,0.0
+Weston McKennie,Midfielder,USA,0.0,0.0,0.59,1.0,6.0,8.0,8.0,17.0,0.0
+Malik Tillman,Midfielder,USA,2.0,1.0,0.9,1.0,6.0,7.0,8.0,22.0,0.0
+Giovanni Reyna,Midfielder,USA,1.0,0.0,0.17,0.0,3.0,1.0,1.0,7.0,0.0
+Tyler Adams,Midfielder,USA,0.0,0.0,0.0,0.0,2.0,2.0,8.0,18.0,0.0
 Brenden Aaronson,Midfielder,USA,0.0,0.0,0.54,1.0,0.0,2.0,4.0,3.0,0.0
 Alex Zendejas,Forward,USA,0.0,0.0,0.02,0.0,0.0,0.0,1.0,0.0,0.0
-Sebastian Berhalter,Midfielder,USA,1.0,1.0,0.07,0.0,1.0,5.0,2.0,11.0,0.0
-Sergino Dest,Defender,USA,0.0,0.0,0.13,0.0,8.0,3.0,1.0,8.0,0.0
-Antonee Robinson,Defender,USA,0.0,0.0,0.0,0.0,5.0,3.0,4.0,17.0,0.0
-Chris Richards,Defender,USA,0.0,0.0,0.03,0.0,0.0,0.0,4.0,7.0,0.0
+Sebastian Berhalter,Midfielder,USA,1.0,1.0,0.13,0.0,1.0,7.0,3.0,11.0,0.0
+Maximilian Arfsten,Forward,USA,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Sergino Dest,Defender,USA,0.0,0.0,0.13,0.0,10.0,3.0,1.0,11.0,0.0
+Antonee Robinson,Defender,USA,0.0,0.0,0.0,0.0,5.0,3.0,11.0,22.0,0.0
+Chris Richards,Defender,USA,0.0,0.0,0.03,0.0,0.0,0.0,5.0,9.0,0.0
 Joe Scally,Defender,USA,0.0,0.0,0.0,0.0,0.0,1.0,1.0,3.0,0.0
 Auston Trusty,Defender,USA,1.0,0.0,0.3,1.0,0.0,0.0,1.0,3.0,0.0
-Alexander Freeman,Defender,USA,1.0,1.0,0.38,0.0,6.0,3.0,8.0,9.0,0.0
+Alexander Freeman,Defender,USA,1.0,1.0,0.46,0.0,9.0,4.0,14.0,13.0,0.0
 Mark McKenzie,Defender,USA,0.0,0.0,0.0,0.0,0.0,0.0,1.0,3.0,0.0
-Tim Ream,Defender,USA,0.0,0.0,0.0,0.0,1.0,1.0,1.0,11.0,0.0
+Tim Ream,Defender,USA,0.0,0.0,0.0,0.0,1.0,1.0,1.0,17.0,0.0
 Miles Robinson,Defender,USA,0.0,0.0,0.06,0.0,0.0,1.0,1.0,2.0,0.0
 Matt Turner,Goalkeeper,USA,0.0,0.0,0.0,0.0,0.0,0.0,0.0,11.0,0.0
-Matthew Freese,Goalkeeper,USA,0.0,0.0,0.0,0.0,0.0,0.0,0.0,19.0,5.0
+Matthew Freese,Goalkeeper,USA,0.0,0.0,0.0,0.0,0.0,0.0,0.0,31.0,8.0
 Ramon Sosa,Forward,Paraguay,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0
 Antonio Sanabria,Forward,Paraguay,0.0,0.0,0.0,0.0,0.0,1.0,2.0,2.0,0.0
 Alex Arce,Forward,Paraguay,0.0,0.0,0.0,0.0,0.0,2.0,1.0,0.0,0.0
 Isidro Pitta,Forward,Paraguay,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
 Gabriel Avalos,Forward,Paraguay,0.0,0.0,0.05,0.0,0.0,0.0,2.0,3.0,0.0
-Julio Enciso,Forward,Paraguay,1.0,2.0,0.35,1.0,12.0,6.0,4.0,10.0,0.0
-Diego Gomez,Midfielder,Paraguay,0.0,0.0,0.18,0.0,3.0,2.0,7.0,14.0,0.0
-Miguel Almiron,Forward,Paraguay,0.0,0.0,0.06,0.0,6.0,2.0,7.0,13.0,0.0
-Mauricio,Midfielder,Paraguay,1.0,0.0,0.33,0.0,2.0,2.0,6.0,9.0,0.0
+Julio Enciso,Forward,Paraguay,1.0,2.0,0.35,1.0,13.0,6.0,5.0,11.0,0.0
+Diego Gomez,Midfielder,Paraguay,0.0,0.0,0.19,0.0,3.0,2.0,11.0,18.0,0.0
+Miguel Almiron,Forward,Paraguay,0.0,0.0,0.08,0.0,8.0,2.0,9.0,16.0,0.0
+Mauricio,Midfielder,Paraguay,1.0,0.0,0.39,0.0,2.0,3.0,7.0,11.0,0.0
 Damian Bobadilla,Midfielder,Paraguay,0.0,0.0,0.0,0.0,0.0,0.0,6.0,6.0,0.0
-Matias Galarza,Midfielder,Paraguay,1.0,1.0,0.09,0.0,4.0,2.0,15.0,26.0,0.0
-Gustavo Caballero,Forward,Paraguay,0.0,0.0,0.05,0.0,2.0,0.0,1.0,3.0,0.0
+Matias Galarza,Midfielder,Paraguay,1.0,1.0,0.09,0.0,4.0,2.0,17.0,32.0,0.0
+Gustavo Caballero,Forward,Paraguay,0.0,0.0,0.05,0.0,2.0,0.0,4.0,3.0,0.0
 Alejandro Romero,Midfielder,Paraguay,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,0.0
-Andres Cubas,Midfielder,Paraguay,0.0,0.0,0.02,0.0,1.0,1.0,15.0,20.0,0.0
+Andres Cubas,Midfielder,Paraguay,0.0,0.0,0.02,0.0,1.0,2.0,22.0,25.0,0.0
 Braian Ojeda,Midfielder,Paraguay,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
-Gustavo Gomez,Defender,Paraguay,0.0,0.0,0.08,0.0,0.0,0.0,4.0,2.0,0.0
+Gustavo Gomez,Defender,Paraguay,0.0,0.0,0.08,0.0,0.0,0.0,5.0,4.0,0.0
 Omar Alderete,Defender,Paraguay,0.0,0.0,0.01,0.0,0.0,1.0,0.0,7.0,0.0
-Junior Alonso,Defender,Paraguay,0.0,0.0,0.11,1.0,0.0,2.0,8.0,11.0,0.0
+Junior Alonso,Defender,Paraguay,0.0,0.0,0.15,1.0,0.0,2.0,11.0,15.0,0.0
 Fabian Balbuena,Defender,Paraguay,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-Juan Caceres,Defender,Paraguay,0.0,0.0,0.05,0.0,4.0,1.0,18.0,12.0,0.0
-Gustavo Velazquez,Defender,Paraguay,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5.0,0.0
+Juan Caceres,Defender,Paraguay,0.0,0.0,0.05,0.0,4.0,1.0,22.0,15.0,0.0
+Gustavo Velazquez,Defender,Paraguay,0.0,0.0,0.0,0.0,1.0,0.0,1.0,5.0,0.0
 Alexandro Maidana,Defender,Paraguay,0.0,0.0,0.0,0.0,0.0,0.0,2.0,2.0,0.0
-Jose Canale,Defender,Paraguay,0.0,0.0,0.0,0.0,0.0,0.0,6.0,3.0,0.0
-Orlando Gill,Goalkeeper,Paraguay,0.0,0.0,0.0,0.0,0.0,0.0,0.0,39.0,19.0
+Jose Canale,Defender,Paraguay,0.0,0.0,0.0,0.0,0.0,0.0,6.0,5.0,0.0
+Orlando Gill,Goalkeeper,Paraguay,0.0,0.0,0.0,0.0,0.0,0.0,0.0,46.0,23.0
 Nestory Irankunda,Forward,Australia,1.0,0.0,0.67,0.0,1.0,3.0,0.0,7.0,0.0
 Mohamed Toure,Forward,Australia,0.0,0.0,0.34,0.0,2.0,1.0,1.0,3.0,0.0
 Tete Yengi,Forward,Australia,0.0,0.0,0.07,0.0,0.0,0.0,2.0,1.0,0.0
@@ -518,47 +521,48 @@ Omar Rekik,Defender,Tunisia,1.0,0.0,0.03,0.0,0.0,1.0,4.0,8.0,0.0
 Amine Ben Hmida,Defender,Tunisia,0.0,0.0,0.0,0.0,0.0,0.0,12.0,17.0,0.0
 Aymen Dahmen,Goalkeeper,Tunisia,0.0,0.0,0.0,0.0,0.0,0.0,0.0,11.0,5.0
 Abdelmouhib Chamakh,Goalkeeper,Tunisia,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5.0,1.0
-Romelu Lukaku,Forward,Belgium,2.0,1.0,0.97,1.0,2.0,3.0,0.0,2.0,0.0
-Leandro Trossard,Forward,Belgium,2.0,1.0,1.59,1.0,10.0,16.0,5.0,24.0,0.0
-Charles De Ketelaere,Forward,Belgium,0.0,0.0,0.2,0.0,3.0,3.0,5.0,6.0,0.0
+Romelu Lukaku,Forward,Belgium,3.0,1.0,1.01,1.0,2.0,3.0,0.0,3.0,0.0
+Leandro Trossard,Forward,Belgium,2.0,2.0,1.75,1.0,10.0,17.0,6.0,30.0,0.0
+Charles De Ketelaere,Forward,Belgium,2.0,1.0,1.31,0.0,4.0,6.0,6.0,8.0,0.0
 Matias Fernandez-Pardo,Forward,Belgium,0.0,0.0,0.34,1.0,2.0,4.0,2.0,1.0,0.0
 Kevin De Bruyne,Midfielder,Belgium,1.0,0.0,1.15,0.0,7.0,10.0,2.0,10.0,0.0
-Jeremy Doku,Forward,Belgium,0.0,0.0,0.26,0.0,6.0,3.0,0.0,10.0,0.0
-Youri Tielemans,Midfielder,Belgium,2.0,0.0,1.11,0.0,1.0,7.0,4.0,19.0,0.0
-Amadou Onana,Midfielder,Belgium,0.0,0.0,0.05,0.0,0.0,0.0,2.0,7.0,0.0
-Alexis Saelemaekers,Forward,Belgium,1.0,0.0,0.18,0.0,2.0,0.0,2.0,2.0,0.0
+Jeremy Doku,Forward,Belgium,0.0,0.0,0.26,0.0,8.0,4.0,0.0,10.0,0.0
+Youri Tielemans,Midfielder,Belgium,2.0,0.0,1.45,1.0,1.0,8.0,7.0,25.0,0.0
+Axel Witsel,Midfielder,Belgium,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+Amadou Onana,Midfielder,Belgium,0.0,0.0,0.05,0.0,0.0,0.0,4.0,9.0,0.0
+Alexis Saelemaekers,Forward,Belgium,1.0,0.0,0.18,0.0,2.0,0.0,2.0,4.0,0.0
 Diego Moreira,Forward,Belgium,0.0,0.0,0.0,0.0,2.0,0.0,1.0,3.0,0.0
-Dodi Lukebakio,Forward,Belgium,0.0,0.0,0.23,0.0,2.0,1.0,1.0,4.0,0.0
-Hans Vanaken,Midfielder,Belgium,0.0,1.0,0.3,0.0,1.0,7.0,1.0,9.0,0.0
-Nicolas Raskin,Midfielder,Belgium,0.0,1.0,0.05,0.0,1.0,2.0,5.0,10.0,0.0
-Maxim De Cuyper,Defender,Belgium,0.0,0.0,1.09,1.0,2.0,3.0,3.0,19.0,0.0
+Dodi Lukebakio,Forward,Belgium,0.0,0.0,0.39,1.0,8.0,1.0,2.0,8.0,0.0
+Hans Vanaken,Midfielder,Belgium,1.0,2.0,0.38,0.0,2.0,8.0,3.0,14.0,0.0
+Nicolas Raskin,Midfielder,Belgium,0.0,2.0,0.13,0.0,1.0,4.0,9.0,15.0,0.0
+Maxim De Cuyper,Defender,Belgium,0.0,0.0,1.09,1.0,2.0,5.0,6.0,26.0,0.0
 Thomas Meunier,Defender,Belgium,0.0,1.0,0.09,0.0,1.0,3.0,3.0,6.0,0.0
-Nathan Ngoy,Defender,Belgium,0.0,0.0,0.05,0.0,1.0,0.0,4.0,13.0,0.0
-Timothy Castagne,Defender,Belgium,0.0,0.0,0.11,0.0,0.0,6.0,10.0,14.0,0.0
+Nathan Ngoy,Defender,Belgium,0.0,0.0,0.05,0.0,1.0,1.0,5.0,17.0,0.0
+Timothy Castagne,Defender,Belgium,0.0,0.0,0.14,0.0,0.0,7.0,12.0,17.0,0.0
 Arthur Theate,Defender,Belgium,0.0,0.0,0.21,0.0,0.0,2.0,1.0,5.0,0.0
-Brandon Mechele,Defender,Belgium,0.0,0.0,0.54,1.0,1.0,2.0,3.0,19.0,0.0
-Thibaut Courtois,Goalkeeper,Belgium,0.0,0.0,0.0,0.0,0.0,0.0,0.0,40.0,9.0
-Omar Marmoush,Forward,Egypt,0.0,0.0,1.17,1.0,8.0,3.0,4.0,10.0,0.0
+Brandon Mechele,Defender,Belgium,0.0,0.0,0.54,1.0,1.0,2.0,5.0,19.0,0.0
+Thibaut Courtois,Goalkeeper,Belgium,0.0,0.0,0.0,0.0,0.0,0.0,0.0,46.0,10.0
+Omar Marmoush,Forward,Egypt,0.0,0.0,1.17,1.0,8.0,3.0,4.0,11.0,0.0
 Hamza Abdelkarim,Forward,Egypt,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,0.0
-Mohamed Salah,Forward,Egypt,1.0,2.0,0.91,1.0,6.0,16.0,1.0,11.0,0.0
-Emam Ashour,Midfielder,Egypt,2.0,0.0,0.91,2.0,3.0,4.0,3.0,15.0,0.0
+Mohamed Salah,Forward,Egypt,1.0,2.0,0.91,1.0,8.0,16.0,1.0,15.0,0.0
+Emam Ashour,Midfielder,Egypt,2.0,0.0,0.91,2.0,3.0,4.0,3.0,19.0,0.0
 Zizo,Forward,Egypt,0.0,0.0,0.22,1.0,1.0,1.0,1.0,1.0,0.0
-Mahmoud Trezeguet,Forward,Egypt,1.0,1.0,0.31,0.0,5.0,1.0,0.0,10.0,0.0
-Haissem Hassan,Forward,Egypt,0.0,0.0,0.15,0.0,1.0,0.0,0.0,2.0,0.0
+Mahmoud Trezeguet,Forward,Egypt,1.0,1.0,0.43,0.0,5.0,1.0,0.0,11.0,0.0
+Haissem Hassan,Forward,Egypt,0.0,1.0,0.15,0.0,5.0,1.0,1.0,2.0,0.0
 Ibrahim Adel,Forward,Egypt,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
-Marwan Attia,Midfielder,Egypt,0.0,0.0,0.12,0.0,2.0,4.0,6.0,20.0,0.0
-Hamdy Fathy,Midfielder,Egypt,0.0,0.0,0.0,0.0,0.0,2.0,7.0,4.0,0.0
-Mostafa Ziko,Midfielder,Egypt,1.0,1.0,0.72,0.0,0.0,5.0,4.0,12.0,0.0
+Marwan Attia,Midfielder,Egypt,0.0,1.0,0.12,0.0,2.0,5.0,8.0,22.0,0.0
+Hamdy Fathy,Midfielder,Egypt,0.0,0.0,0.0,0.0,0.0,2.0,11.0,5.0,0.0
+Mostafa Ziko,Midfielder,Egypt,2.0,1.0,1.36,0.0,0.0,6.0,5.0,15.0,0.0
 Mahmoud Saber,Midfielder,Egypt,1.0,0.0,0.14,0.0,1.0,1.0,0.0,2.0,0.0
-Mohanad Lasheen,Midfielder,Egypt,0.0,0.0,0.17,0.0,2.0,1.0,13.0,10.0,0.0
+Mohanad Lasheen,Midfielder,Egypt,0.0,0.0,0.17,0.0,3.0,1.0,16.0,12.0,0.0
 Mohamed Abdelmonem,Defender,Egypt,0.0,0.0,0.0,0.0,0.0,0.0,1.0,4.0,0.0
-Mohamed Hany,Defender,Egypt,0.0,1.0,0.1,0.0,2.0,4.0,14.0,16.0,0.0
-Yasser Ibrahim,Defender,Egypt,0.0,0.0,0.0,0.0,0.0,0.0,7.0,12.0,0.0
-Rami Rabia,Defender,Egypt,0.0,0.0,0.15,1.0,0.0,0.0,4.0,9.0,0.0
+Mohamed Hany,Defender,Egypt,0.0,1.0,0.1,0.0,3.0,5.0,14.0,19.0,0.0
+Yasser Ibrahim,Defender,Egypt,1.0,0.0,0.1,0.0,1.0,0.0,8.0,13.0,0.0
+Rami Rabia,Defender,Egypt,0.0,0.0,0.15,1.0,0.0,0.0,8.0,11.0,0.0
 Hossam Abdelmaguid,Defender,Egypt,0.0,0.0,0.0,0.0,0.0,0.0,2.0,1.0,0.0
 Ahmed Fatouh,Defender,Egypt,0.0,0.0,0.06,0.0,3.0,4.0,6.0,6.0,0.0
-Karim Hafez,Defender,Egypt,0.0,1.0,0.0,0.0,0.0,1.0,3.0,6.0,0.0
-Mostafa Shobeir,Goalkeeper,Egypt,0.0,0.0,0.0,0.0,0.0,0.0,0.0,27.0,10.0
+Karim Hafez,Defender,Egypt,0.0,1.0,0.02,0.0,2.0,1.0,3.0,11.0,0.0
+Mostafa Shobeir,Goalkeeper,Egypt,0.0,0.0,0.0,0.0,0.0,0.0,0.0,34.0,14.0
 Mehdi Taremi,Forward,Iran,0.0,0.0,1.3,2.0,2.0,4.0,3.0,14.0,0.0
 Alireza Jahanbakhsh,Forward,Iran,0.0,0.0,0.08,0.0,1.0,1.0,1.0,1.0,0.0
 Ali Alipour,Forward,Iran,0.0,0.0,0.06,0.0,0.0,0.0,1.0,1.0,0.0
@@ -596,25 +600,26 @@ Francis De Vries,Defender,New Zealand,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0
 Michael Boxall,Defender,New Zealand,0.0,0.0,0.0,0.0,0.0,0.0,1.0,4.0,0.0
 Callan Elliot,Defender,New Zealand,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0
 Max Crocombe,Goalkeeper,New Zealand,0.0,0.0,0.0,0.0,0.0,1.0,0.0,27.0,11.0
-Ferran Torres,Forward,Spain,0.0,0.0,1.57,3.0,2.0,1.0,0.0,7.0,0.0
-Mikel Oyarzabal,Forward,Spain,4.0,1.0,2.41,0.0,3.0,2.0,3.0,8.0,0.0
+Ferran Torres,Forward,Spain,0.0,1.0,1.58,3.0,2.0,2.0,0.0,7.0,0.0
+Mikel Oyarzabal,Forward,Spain,4.0,1.0,3.06,1.0,3.0,4.0,3.0,9.0,0.0
 Yéremy Pino,Forward,Spain,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
-Lamine Yamal,Forward,Spain,1.0,0.0,1.14,1.0,14.0,5.0,2.0,11.0,0.0
-Pedri,Midfielder,Spain,0.0,0.0,0.18,0.0,4.0,7.0,8.0,21.0,0.0
+Borja Iglesias,Forward,Spain,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Lamine Yamal,Forward,Spain,1.0,0.0,1.26,1.0,17.0,5.0,7.0,17.0,0.0
+Pedri,Midfielder,Spain,0.0,0.0,0.24,0.0,4.0,8.0,9.0,25.0,0.0
 Pablo Gavi,Midfielder,Spain,0.0,0.0,0.05,0.0,1.0,0.0,3.0,3.0,0.0
-Dani Olmo,Midfielder,Spain,0.0,1.0,0.38,0.0,2.0,4.0,5.0,6.0,0.0
-Rodri,Midfielder,Spain,0.0,0.0,0.17,0.0,2.0,6.0,14.0,23.0,0.0
+Dani Olmo,Midfielder,Spain,0.0,1.0,0.48,1.0,3.0,6.0,6.0,6.0,0.0
+Rodri,Midfielder,Spain,0.0,0.0,0.19,0.0,2.0,7.0,18.0,30.0,0.0
 Nico Williams,Forward,Spain,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
-Mikel Merino,Midfielder,Spain,0.0,0.0,0.15,0.0,0.0,3.0,2.0,4.0,0.0
+Mikel Merino,Midfielder,Spain,1.0,0.0,0.7,0.0,0.0,3.0,2.0,5.0,0.0
 Fabián Ruiz,Midfielder,Spain,0.0,0.0,0.31,1.0,0.0,2.0,1.0,8.0,0.0
-Alex Baena,Forward,Spain,1.0,1.0,0.24,0.0,0.0,8.0,2.0,5.0,0.0
-Pau Cubarsí,Defender,Spain,0.0,0.0,0.15,0.0,0.0,5.0,3.0,18.0,0.0
-Marc Cucurella,Defender,Spain,0.0,2.0,0.3,1.0,2.0,4.0,2.0,9.0,0.0
-Pedro Porro,Defender,Spain,1.0,0.0,0.75,0.0,1.0,8.0,4.0,14.0,0.0
+Alex Baena,Forward,Spain,1.0,1.0,0.41,0.0,1.0,8.0,5.0,9.0,0.0
+Pau Cubarsí,Defender,Spain,0.0,0.0,0.15,0.0,0.0,5.0,3.0,19.0,0.0
+Marc Cucurella,Defender,Spain,0.0,2.0,0.3,1.0,2.0,4.0,2.0,14.0,0.0
+Pedro Porro,Defender,Spain,1.0,0.0,0.76,0.0,1.0,8.0,8.0,16.0,0.0
 Marcos Llorente,Defender,Spain,0.0,1.0,0.0,0.0,1.0,4.0,6.0,10.0,0.0
-Aymeric Laporte,Defender,Spain,0.0,1.0,0.26,0.0,0.0,3.0,4.0,13.0,0.0
+Aymeric Laporte,Defender,Spain,0.0,1.0,0.26,0.0,0.0,3.0,4.0,16.0,0.0
 Marc Pubill,Defender,Spain,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-Unai Simón,Goalkeeper,Spain,0.0,0.0,0.0,0.0,0.0,0.0,0.0,44.0,4.0
+Unai Simón,Goalkeeper,Spain,0.0,0.0,0.0,0.0,0.0,0.0,0.0,57.0,6.0
 Dailon Rocha Livramento,Forward,Cape Verde,0.0,0.0,0.02,0.0,0.0,0.0,1.0,2.0,0.0
 Jovane Cabral,Forward,Cape Verde,0.0,0.0,0.03,0.0,3.0,0.0,3.0,9.0,0.0
 Nuno Da Costa,Forward,Cape Verde,0.0,0.0,0.03,0.0,3.0,1.0,2.0,7.0,0.0
@@ -673,27 +678,27 @@ Sebastián Cáceres,Defender,Uruguay,0.0,0.0,0.15,0.0,0.0,0.0,1.0,8.0,0.0
 Juan Sanabria,Defender,Uruguay,0.0,0.0,0.11,0.0,0.0,3.0,7.0,5.0,0.0
 Fernando Muslera,Goalkeeper,Uruguay,0.0,0.0,0.0,0.0,0.0,0.0,0.0,19.0,4.0
 Sergio Rochet,Goalkeeper,Uruguay,0.0,0.0,0.0,0.0,0.0,0.0,0.0,6.0,0.0
-Kylian Mbappé,Forward,France,6.0,2.0,2.88,4.0,7.0,10.0,1.0,11.0,0.0
-Ousmane Dembélé,Forward,France,4.0,2.0,1.21,1.0,4.0,9.0,3.0,7.0,0.0
-Désiré Doué,Forward,France,1.0,0.0,0.33,1.0,3.0,5.0,4.0,12.0,0.0
-Bradley Barcola,Forward,France,2.0,1.0,1.45,1.0,6.0,3.0,3.0,9.0,0.0
+Kylian Mbappé,Forward,France,7.0,2.0,4.05,5.0,9.0,12.0,1.0,11.0,0.0
+Ousmane Dembélé,Forward,France,4.0,2.0,1.27,1.0,5.0,11.0,3.0,8.0,0.0
+Désiré Doué,Forward,France,1.0,0.0,0.36,1.0,5.0,8.0,5.0,13.0,0.0
+Bradley Barcola,Forward,France,2.0,1.0,1.49,1.0,11.0,5.0,4.0,10.0,0.0
 Marcus Thuram,Forward,France,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 Jean-Philippe Mateta,Forward,France,0.0,0.0,0.25,1.0,0.0,0.0,0.0,1.0,0.0
-Michael Olise,Forward,France,0.0,5.0,1.89,2.0,8.0,10.0,4.0,22.0,0.0
+Michael Olise,Forward,France,0.0,5.0,1.89,2.0,11.0,11.0,5.0,25.0,0.0
 Aurélien Tchouaméni,Midfielder,France,0.0,1.0,0.06,0.0,1.0,4.0,13.0,19.0,0.0
 Rayan Cherki,Midfielder,France,0.0,0.0,0.0,0.0,1.0,1.0,1.0,7.0,0.0
-Adrien Rabiot,Midfielder,France,0.0,1.0,0.63,1.0,0.0,5.0,2.0,12.0,0.0
+Adrien Rabiot,Midfielder,France,0.0,1.0,0.72,1.0,0.0,6.0,2.0,15.0,0.0
 Maghnes Akliouche,Forward,France,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
-Manu Koné,Midfielder,France,0.0,0.0,0.14,1.0,1.0,1.0,5.0,11.0,0.0
-Jules Koundé,Defender,France,0.0,0.0,0.04,0.0,1.0,4.0,11.0,17.0,0.0
-William Saliba,Defender,France,0.0,0.0,0.05,0.0,1.0,0.0,2.0,10.0,0.0
+Manu Koné,Midfielder,France,0.0,0.0,0.2,1.0,2.0,2.0,6.0,15.0,0.0
+Jules Koundé,Defender,France,0.0,0.0,0.04,0.0,1.0,4.0,13.0,21.0,0.0
+William Saliba,Defender,France,0.0,0.0,0.05,0.0,1.0,0.0,2.0,15.0,0.0
 Ibrahima Konaté,Defender,France,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 Theo Hernández,Defender,France,0.0,0.0,0.17,0.0,0.0,2.0,2.0,12.0,0.0
 Malo Gusto,Defender,France,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
-Dayot Upamecano,Defender,France,0.0,0.0,0.13,0.0,2.0,2.0,7.0,22.0,0.0
+Dayot Upamecano,Defender,France,0.0,0.0,0.13,0.0,2.0,2.0,11.0,33.0,0.0
 Maxence Lacroix,Defender,France,0.0,0.0,0.0,0.0,0.0,0.0,2.0,3.0,0.0
-Lucas Digne,Defender,France,0.0,0.0,0.02,0.0,0.0,1.0,1.0,6.0,0.0
-Mike Maignan,Goalkeeper,France,0.0,0.0,0.0,0.0,0.0,0.0,0.0,28.0,8.0
+Lucas Digne,Defender,France,0.0,0.0,0.02,0.0,1.0,1.0,4.0,10.0,0.0
+Mike Maignan,Goalkeeper,France,0.0,0.0,0.0,0.0,0.0,0.0,0.0,40.0,8.0
 Nicolas Jackson,Forward,Senegal,0.0,1.0,0.62,2.0,1.0,3.0,2.0,5.0,0.0
 Ibrahim Mbaye,Forward,Senegal,1.0,0.0,0.66,1.0,2.0,5.0,1.0,7.0,0.0
 Ismaïla Sarr,Forward,Senegal,4.0,1.0,3.7,4.0,2.0,5.0,1.0,8.0,0.0
@@ -741,54 +746,54 @@ Ahmed Hasan Maknazi,Defender,Iraq,0.0,0.0,0.0,0.0,2.0,0.0,3.0,2.0,0.0
 Manaf Younis,Defender,Iraq,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0
 Jalal Hassan,Goalkeeper,Iraq,0.0,0.0,0.0,0.0,0.0,0.0,0.0,10.0,8.0
 Ahmed Basil,Goalkeeper,Iraq,0.0,0.0,0.0,0.0,0.0,0.0,0.0,10.0,3.0
-Erling Haaland,Forward,Norway,5.0,0.0,3.86,4.0,1.0,4.0,0.0,2.0,0.0
-Alexander Sørloth,Forward,Norway,0.0,0.0,0.42,1.0,0.0,3.0,1.0,10.0,0.0
-Antonio Nusa,Forward,Norway,1.0,0.0,0.11,0.0,4.0,2.0,3.0,6.0,0.0
+Erling Haaland,Forward,Norway,7.0,0.0,4.33,5.0,1.0,6.0,0.0,3.0,0.0
+Alexander Sørloth,Forward,Norway,0.0,0.0,0.42,1.0,0.0,3.0,1.0,13.0,0.0
+Antonio Nusa,Forward,Norway,1.0,0.0,0.11,0.0,6.0,2.0,3.0,10.0,0.0
 Jens Petter Hauge,Forward,Norway,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 Jørgen Strand Larsen,Forward,Norway,0.0,0.0,1.04,2.0,1.0,2.0,0.0,1.0,0.0
-Martin Ødegaard,Midfielder,Norway,0.0,3.0,0.82,1.0,1.0,3.0,6.0,9.0,0.0
-Oscar Bobb,Forward,Norway,0.0,0.0,0.5,1.0,1.0,1.0,2.0,7.0,0.0
-Andreas Schjelderup,Forward,Norway,0.0,1.0,0.07,0.0,3.0,3.0,1.0,9.0,0.0
-Fredrik Aursnes,Midfielder,Norway,0.0,0.0,0.04,0.0,1.0,2.0,8.0,6.0,0.0
+Martin Ødegaard,Midfielder,Norway,0.0,3.0,1.29,2.0,2.0,4.0,6.0,11.0,0.0
+Oscar Bobb,Forward,Norway,0.0,0.0,0.5,1.0,3.0,1.0,3.0,9.0,0.0
+Andreas Schjelderup,Forward,Norway,0.0,3.0,0.14,0.0,4.0,5.0,2.0,14.0,0.0
+Fredrik Aursnes,Midfielder,Norway,0.0,0.0,0.04,0.0,1.0,2.0,10.0,6.0,0.0
 Thelo Aasgaard,Midfielder,Norway,1.0,0.0,0.14,0.0,0.0,1.0,3.0,4.0,0.0
-Julian Ryerson,Midfielder,Norway,0.0,0.0,0.0,0.0,1.0,4.0,5.0,3.0,0.0
-Patrick Berg,Midfielder,Norway,0.0,2.0,0.07,0.0,2.0,4.0,4.0,8.0,0.0
-Sander Berge,Midfielder,Norway,0.0,0.0,0.0,0.0,1.0,0.0,6.0,20.0,0.0
+Julian Ryerson,Midfielder,Norway,0.0,0.0,0.0,0.0,2.0,4.0,7.0,7.0,0.0
+Patrick Berg,Midfielder,Norway,0.0,2.0,0.11,0.0,4.0,4.0,7.0,9.0,0.0
+Sander Berge,Midfielder,Norway,0.0,0.0,0.0,0.0,3.0,0.0,6.0,23.0,0.0
 Kristian Thorstvedt,Midfielder,Norway,0.0,0.0,0.19,0.0,2.0,0.0,2.0,3.0,0.0
 Morten Thorsby,Midfielder,Norway,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0
 Marcus Pedersen,Midfielder,Norway,1.0,0.0,0.13,0.0,0.0,2.0,1.0,3.0,0.0
 Leo Østigård,Defender,Norway,1.0,0.0,0.35,0.0,0.0,0.0,3.0,6.0,0.0
-Kristoffer Ajer,Defender,Norway,0.0,0.0,0.2,1.0,0.0,0.0,6.0,11.0,0.0
-David Møller Wolfe,Defender,Norway,0.0,1.0,0.0,0.0,1.0,1.0,3.0,7.0,0.0
-Torbjørn Heggem,Defender,Norway,0.0,0.0,0.38,1.0,1.0,0.0,4.0,5.0,0.0
+Kristoffer Ajer,Defender,Norway,0.0,0.0,0.2,1.0,1.0,1.0,7.0,13.0,0.0
+David Møller Wolfe,Defender,Norway,0.0,1.0,0.0,0.0,1.0,1.0,5.0,12.0,0.0
+Torbjørn Heggem,Defender,Norway,0.0,0.0,0.38,1.0,1.0,0.0,6.0,6.0,0.0
 Fredrik André Bjørkan,Defender,Norway,0.0,0.0,0.0,0.0,0.0,1.0,1.0,4.0,0.0
 Henrik Sælebakke Falchener,Defender,Norway,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0
 Sondre Langås,Defender,Norway,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-Ørjan Nyland,Goalkeeper,Norway,0.0,0.0,0.0,0.0,0.0,0.0,0.0,21.0,6.0
+Ørjan Nyland,Goalkeeper,Norway,0.0,0.0,0.0,0.0,0.0,0.0,0.0,28.0,10.0
 Egil Selvik,Goalkeeper,Norway,0.0,0.0,0.0,0.0,0.0,0.0,1.0,6.0,5.0
-Lionel Messi,Forward,Argentina,7.0,0.0,4.01,2.0,5.0,9.0,5.0,9.0,0.0
-Julián Alvarez,Forward,Argentina,0.0,0.0,0.55,1.0,1.0,1.0,1.0,7.0,0.0
-Lautaro Martínez,Forward,Argentina,1.0,0.0,1.49,1.0,0.0,2.0,3.0,9.0,0.0
+Lionel Messi,Forward,Argentina,8.0,1.0,5.02,3.0,10.0,15.0,6.0,11.0,0.0
+Julián Alvarez,Forward,Argentina,0.0,0.0,0.86,2.0,1.0,1.0,2.0,9.0,0.0
+Lautaro Martínez,Forward,Argentina,1.0,1.0,1.92,2.0,0.0,3.0,3.0,10.0,0.0
 José Manuel López,Forward,Argentina,0.0,0.0,0.02,0.0,0.0,0.0,1.0,0.0,0.0
-Enzo Fernández,Midfielder,Argentina,0.0,0.0,0.44,0.0,3.0,2.0,7.0,20.0,0.0
+Enzo Fernández,Midfielder,Argentina,1.0,0.0,0.69,0.0,6.0,2.0,8.0,24.0,0.0
 Nico Paz,Midfielder,Argentina,0.0,0.0,0.06,0.0,2.0,0.0,3.0,6.0,0.0
-Alexis Mac Allister,Midfielder,Argentina,0.0,1.0,0.21,0.0,0.0,3.0,12.0,17.0,0.0
-Rodrigo De Paul,Midfielder,Argentina,0.0,1.0,0.0,0.0,1.0,2.0,5.0,12.0,0.0
+Alexis Mac Allister,Midfielder,Argentina,0.0,1.0,0.62,1.0,0.0,4.0,15.0,20.0,0.0
+Rodrigo De Paul,Midfielder,Argentina,0.0,1.0,0.04,0.0,1.0,4.0,6.0,16.0,0.0
 Thiago Almada,Midfielder,Argentina,0.0,0.0,0.07,0.0,3.0,2.0,5.0,12.0,0.0
-Leandro Paredes,Midfielder,Argentina,0.0,0.0,0.02,0.0,0.0,0.0,1.0,2.0,0.0
+Leandro Paredes,Midfielder,Argentina,0.0,0.0,0.05,0.0,1.0,0.0,4.0,13.0,0.0
 Giuliano Simeone,Midfielder,Argentina,0.0,0.0,0.0,0.0,0.0,0.0,2.0,2.0,0.0
-Nicolás González,Midfielder,Argentina,0.0,1.0,0.51,1.0,2.0,2.0,3.0,4.0,0.0
+Nicolás González,Midfielder,Argentina,0.0,1.0,0.51,1.0,3.0,4.0,3.0,7.0,0.0
 Giovani Lo Celso,Midfielder,Argentina,1.0,0.0,0.1,0.0,0.0,2.0,1.0,4.0,0.0
 Valentín Barco,Midfielder,Argentina,0.0,0.0,0.0,0.0,0.0,0.0,1.0,2.0,0.0
 Exequiel Palacios,Midfielder,Argentina,0.0,0.0,0.0,0.0,0.0,0.0,4.0,3.0,0.0
-Lisandro Martínez,Defender,Argentina,1.0,1.0,0.05,0.0,1.0,2.0,3.0,10.0,0.0
-Cristian Romero,Defender,Argentina,0.0,0.0,0.12,1.0,1.0,0.0,5.0,8.0,0.0
+Lisandro Martínez,Defender,Argentina,1.0,1.0,0.07,0.0,2.0,2.0,7.0,11.0,0.0
+Cristian Romero,Defender,Argentina,1.0,0.0,0.47,1.0,1.0,0.0,8.0,15.0,0.0
 Nicolás Otamendi,Defender,Argentina,0.0,0.0,0.04,0.0,0.0,0.0,3.0,3.0,0.0
-Nahuel Molina,Defender,Argentina,0.0,0.0,0.0,0.0,2.0,1.0,6.0,8.0,0.0
-Nicolás Tagliafico,Defender,Argentina,0.0,0.0,0.0,0.0,0.0,1.0,3.0,3.0,0.0
-Gonzalo Montiel,Defender,Argentina,0.0,0.0,0.09,0.0,0.0,0.0,2.0,0.0,0.0
+Nahuel Molina,Defender,Argentina,0.0,0.0,0.0,0.0,2.0,3.0,9.0,13.0,0.0
+Nicolás Tagliafico,Defender,Argentina,0.0,0.0,0.0,0.0,0.0,2.0,3.0,3.0,0.0
+Gonzalo Montiel,Defender,Argentina,0.0,1.0,0.09,0.0,0.0,1.0,2.0,0.0,0.0
 Facundo Medina,Defender,Argentina,0.0,1.0,0.0,0.0,0.0,1.0,8.0,9.0,0.0
-Emiliano Martínez,Goalkeeper,Argentina,0.0,0.0,0.0,0.0,0.0,0.0,0.0,22.0,4.0
+Emiliano Martínez,Goalkeeper,Argentina,0.0,0.0,0.0,0.0,0.0,0.0,0.0,27.0,4.0
 Ibrahim Maza,Forward,Algeria,0.0,0.0,1.28,3.0,14.0,3.0,5.0,8.0,0.0
 Mohamed Amoura,Forward,Algeria,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
 Amine Gouiri,Forward,Algeria,1.0,0.0,0.49,0.0,1.0,1.0,1.0,5.0,0.0
@@ -851,28 +856,28 @@ Saad Al Rousan,Defender,Jordan,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 Saleem Obaid,Defender,Jordan,0.0,0.0,0.0,0.0,0.0,0.0,2.0,1.0,0.0
 Husam Ali Mohammad Abudahab,Defender,Jordan,0.0,0.0,0.0,0.0,0.0,1.0,7.0,6.0,0.0
 Yazeed Abu Laila,Goalkeeper,Jordan,0.0,0.0,0.0,0.0,0.0,0.0,0.0,18.0,8.0
-Cristiano Ronaldo,Forward,Portugal,3.0,0.0,3.01,3.0,0.0,0.0,2.0,5.0,0.0
-João Félix,Forward,Portugal,0.0,0.0,0.79,3.0,4.0,0.0,4.0,5.0,0.0
-Rafael Leão,Forward,Portugal,1.0,1.0,0.3,0.0,7.0,3.0,0.0,7.0,0.0
+Cristiano Ronaldo,Forward,Portugal,3.0,0.0,3.29,3.0,0.0,1.0,2.0,6.0,0.0
+João Félix,Forward,Portugal,0.0,0.0,0.79,3.0,5.0,2.0,6.0,10.0,0.0
+Rafael Leão,Forward,Portugal,1.0,1.0,0.3,0.0,11.0,3.0,0.0,7.0,0.0
 Gonçalo Ramos,Forward,Portugal,1.0,0.0,0.13,0.0,1.0,0.0,0.0,0.0,0.0
-Francisco Conceição,Forward,Portugal,0.0,0.0,0.11,0.0,2.0,3.0,3.0,6.0,0.0
-Bruno Fernandes,Midfielder,Portugal,0.0,1.0,1.02,1.0,1.0,4.0,8.0,7.0,0.0
-Vitinha,Midfielder,Portugal,0.0,0.0,0.08,0.0,4.0,2.0,2.0,17.0,0.0
-Bernardo Silva,Midfielder,Portugal,0.0,0.0,0.0,0.0,0.0,0.0,1.0,6.0,0.0
-João Neves,Midfielder,Portugal,1.0,0.0,0.15,1.0,1.0,2.0,9.0,16.0,0.0
-Pedro Neto,Forward,Portugal,0.0,1.0,0.0,0.0,2.0,2.0,3.0,9.0,0.0
+Francisco Conceição,Forward,Portugal,0.0,0.0,0.11,0.0,2.0,4.0,3.0,7.0,0.0
+Bruno Fernandes,Midfielder,Portugal,0.0,1.0,1.05,1.0,2.0,6.0,8.0,12.0,0.0
+Vitinha,Midfielder,Portugal,0.0,0.0,0.11,0.0,5.0,2.0,2.0,20.0,0.0
+Bernardo Silva,Midfielder,Portugal,0.0,0.0,0.16,1.0,0.0,0.0,1.0,7.0,0.0
+João Neves,Midfielder,Portugal,1.0,0.0,0.21,1.0,2.0,2.0,13.0,18.0,0.0
+Pedro Neto,Forward,Portugal,0.0,1.0,0.01,0.0,3.0,2.0,4.0,14.0,0.0
 Rúben Neves,Midfielder,Portugal,0.0,0.0,0.03,0.0,0.0,0.0,0.0,2.0,0.0
 Francisco Trincão,Forward,Portugal,0.0,0.0,0.11,0.0,0.0,0.0,1.0,3.0,0.0
 Samú Costa,Midfielder,Portugal,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0
-João Cancelo,Defender,Portugal,0.0,1.0,0.07,0.0,5.0,3.0,6.0,12.0,0.0
-Nuno Mendes,Defender,Portugal,1.0,0.0,0.18,0.0,7.0,10.0,5.0,16.0,0.0
-Rúben Dias,Defender,Portugal,0.0,0.0,0.0,0.0,2.0,0.0,5.0,7.0,0.0
-Diogo Dalot,Defender,Portugal,0.0,0.0,0.03,0.0,1.0,1.0,1.0,1.0,0.0
+João Cancelo,Defender,Portugal,0.0,1.0,0.1,0.0,6.0,3.0,7.0,13.0,0.0
+Nuno Mendes,Defender,Portugal,1.0,0.0,0.21,0.0,7.0,11.0,9.0,21.0,0.0
+Rúben Dias,Defender,Portugal,0.0,0.0,0.0,0.0,2.0,0.0,5.0,11.0,0.0
+Diogo Dalot,Defender,Portugal,0.0,0.0,0.03,0.0,1.0,1.0,2.0,4.0,0.0
 Matheus Nunes,Defender,Portugal,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-Renato Veiga,Defender,Portugal,0.0,0.0,0.42,1.0,0.0,1.0,3.0,13.0,0.0
-Nélson Semedo,Defender,Portugal,0.0,0.0,0.0,0.0,2.0,1.0,0.0,8.0,0.0
+Renato Veiga,Defender,Portugal,0.0,0.0,0.42,1.0,0.0,1.0,4.0,16.0,0.0
+Nélson Semedo,Defender,Portugal,0.0,0.0,0.0,0.0,2.0,1.0,0.0,9.0,0.0
 Tomás Araújo,Defender,Portugal,0.0,0.0,0.0,0.0,0.0,1.0,0.0,7.0,0.0
-Diogo Costa,Goalkeeper,Portugal,0.0,0.0,0.0,0.0,0.0,0.0,0.0,24.0,14.0
+Diogo Costa,Goalkeeper,Portugal,0.0,0.0,0.0,0.0,0.0,0.0,0.0,34.0,19.0
 Yoane Wissa,Forward,DR Congo,3.0,0.0,2.49,2.0,1.0,1.0,1.0,9.0,0.0
 Cédric Bakambu,Forward,DR Congo,0.0,0.0,0.24,0.0,2.0,1.0,0.0,4.0,0.0
 Fiston Mayele,Forward,DR Congo,1.0,0.0,0.59,0.0,0.0,0.0,0.0,2.0,0.0
@@ -916,45 +921,48 @@ Jakhongir Urozov,Defender,Uzbekistan,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0
 Bekhruz Karimov,Defender,Uzbekistan,0.0,0.0,0.03,0.0,6.0,2.0,6.0,15.0,0.0
 Abduvokhid Nematov,Goalkeeper,Uzbekistan,0.0,0.0,0.0,0.0,0.0,0.0,0.0,15.0,5.0
 Utkir Yusupov,Goalkeeper,Uzbekistan,0.0,0.0,0.0,0.0,0.0,0.0,0.0,13.0,1.0
-Luis Javier Suárez,Forward,Colombia,0.0,1.0,0.43,0.0,1.0,2.0,4.0,3.0,0.0
+Luis Javier Suárez,Forward,Colombia,0.0,1.0,0.53,0.0,1.0,2.0,4.0,4.0,0.0
+Cucho Hernández,Forward,Colombia,0.0,0.0,0.07,0.0,0.0,1.0,0.0,0.0,0.0
 Jhon Córdoba,Forward,Colombia,0.0,0.0,0.3,1.0,0.0,0.0,0.0,1.0,0.0
-Luis Díaz,Forward,Colombia,1.0,1.0,1.53,3.0,3.0,7.0,1.0,14.0,0.0
-James Rodríguez,Midfielder,Colombia,0.0,0.0,0.28,0.0,2.0,10.0,2.0,5.0,0.0
-Richard Ríos,Midfielder,Colombia,0.0,0.0,0.52,2.0,1.0,0.0,4.0,5.0,0.0
-Jhon Arias,Forward,Colombia,1.0,0.0,0.89,0.0,4.0,8.0,10.0,18.0,0.0
-Juan Fernando Quintero,Midfielder,Colombia,0.0,2.0,0.1,0.0,0.0,8.0,0.0,4.0,0.0
-Daniel Muñoz,Midfielder,Colombia,2.0,0.0,0.75,1.0,0.0,2.0,8.0,8.0,0.0
+Luis Díaz,Forward,Colombia,1.0,1.0,1.75,3.0,4.0,10.0,2.0,17.0,0.0
+James Rodríguez,Midfielder,Colombia,0.0,0.0,0.28,0.0,3.0,11.0,4.0,8.0,0.0
+Richard Ríos,Midfielder,Colombia,0.0,0.0,0.54,2.0,3.0,1.0,4.0,7.0,0.0
+Jhon Arias,Forward,Colombia,1.0,0.0,0.94,0.0,6.0,8.0,15.0,21.0,0.0
+Juan Fernando Quintero,Midfielder,Colombia,0.0,2.0,0.12,0.0,0.0,10.0,0.0,5.0,0.0
+Daniel Muñoz,Midfielder,Colombia,2.0,0.0,0.75,1.0,0.0,3.0,10.0,11.0,0.0
 Andrés Gómez,Forward,Colombia,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
-Jefferson Lerma,Midfielder,Colombia,0.0,0.0,0.23,0.0,0.0,3.0,0.0,16.0,0.0
+Jefferson Lerma,Midfielder,Colombia,0.0,0.0,0.23,0.0,0.0,4.0,2.0,25.0,0.0
 Kevin Castaño,Midfielder,Colombia,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
-Gustavo Puerta,Midfielder,Colombia,0.0,1.0,0.39,0.0,3.0,5.0,2.0,12.0,0.0
-Jaminton Campaz,Forward,Colombia,1.0,0.0,0.25,0.0,1.0,1.0,1.0,4.0,0.0
-Davinson Sánchez,Defender,Colombia,0.0,0.0,0.38,1.0,2.0,5.0,4.0,13.0,0.0
-Jhon Lucumí,Defender,Colombia,0.0,0.0,0.05,0.0,0.0,1.0,1.0,15.0,0.0
-Johan Mojica,Defender,Colombia,0.0,0.0,0.25,1.0,0.0,1.0,3.0,9.0,0.0
+Gustavo Puerta,Midfielder,Colombia,0.0,1.0,0.49,0.0,3.0,6.0,3.0,18.0,0.0
+Jaminton Campaz,Forward,Colombia,1.0,0.0,0.61,1.0,4.0,2.0,2.0,5.0,0.0
+Davinson Sánchez,Defender,Colombia,0.0,0.0,0.43,1.0,3.0,5.0,4.0,17.0,0.0
+Yerry Mina,Defender,Colombia,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0
+Jhon Lucumí,Defender,Colombia,0.0,0.0,0.15,1.0,0.0,1.0,2.0,20.0,0.0
+Johan Mojica,Defender,Colombia,0.0,0.0,0.25,1.0,0.0,2.0,5.0,14.0,0.0
 Santiago Arias,Defender,Colombia,0.0,0.0,0.0,0.0,0.0,5.0,3.0,3.0,0.0
 Deiver Machado,Defender,Colombia,0.0,0.0,0.0,0.0,0.0,1.0,2.0,3.0,0.0
-Camilo Vargas,Goalkeeper,Colombia,0.0,0.0,0.0,0.0,0.0,1.0,0.0,28.0,4.0
+Camilo Vargas,Goalkeeper,Colombia,0.0,0.0,0.0,0.0,0.0,1.0,0.0,36.0,6.0
 Marcus Rashford,Forward,England,1.0,0.0,0.73,2.0,3.0,1.0,2.0,7.0,0.0
-Harry Kane,Forward,England,5.0,0.0,2.63,3.0,1.0,3.0,1.0,10.0,0.0
-Bukayo Saka,Forward,England,0.0,2.0,0.27,0.0,4.0,2.0,4.0,3.0,0.0
-Anthony Gordon,Forward,England,0.0,2.0,0.33,1.0,2.0,4.0,1.0,3.0,0.0
+Harry Kane,Forward,England,6.0,1.0,3.42,3.0,2.0,4.0,2.0,10.0,0.0
+Bukayo Saka,Forward,England,0.0,3.0,0.27,0.0,4.0,3.0,7.0,4.0,0.0
+Anthony Gordon,Forward,England,0.0,2.0,0.37,1.0,4.0,5.0,4.0,7.0,0.0
 Noni Madueke,Forward,England,0.0,0.0,0.45,1.0,4.0,9.0,4.0,5.0,0.0
 Ollie Watkins,Forward,England,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-Jude Bellingham,Midfielder,England,2.0,1.0,1.28,3.0,5.0,8.0,9.0,17.0,0.0
-Declan Rice,Midfielder,England,0.0,1.0,0.16,0.0,3.0,12.0,2.0,14.0,0.0
+Jude Bellingham,Midfielder,England,4.0,1.0,2.01,3.0,9.0,8.0,12.0,20.0,0.0
+Declan Rice,Midfielder,England,0.0,1.0,0.16,0.0,3.0,12.0,2.0,18.0,0.0
 Eberechi Eze,Forward,England,0.0,0.0,0.04,0.0,0.0,1.0,0.0,3.0,0.0
 Morgan Rogers,Forward,England,0.0,0.0,0.0,0.0,2.0,3.0,3.0,4.0,0.0
-Elliot Anderson,Midfielder,England,0.0,1.0,0.23,0.0,2.0,4.0,9.0,25.0,0.0
+Elliot Anderson,Midfielder,England,0.0,1.0,0.23,0.0,2.0,4.0,14.0,29.0,0.0
 Jordan Henderson,Midfielder,England,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
 Reece James,Defender,England,0.0,0.0,0.04,0.0,0.0,2.0,2.0,8.0,0.0
-Nico O'Reilly,Defender,England,0.0,0.0,1.01,3.0,4.0,5.0,4.0,11.0,0.0
-Marc Guéhi,Defender,England,0.0,0.0,0.17,0.0,0.0,1.0,0.0,11.0,0.0
+Nico O'Reilly,Defender,England,0.0,0.0,1.07,3.0,4.0,5.0,5.0,12.0,0.0
+Marc Guéhi,Defender,England,0.0,0.0,0.17,0.0,1.0,1.0,0.0,15.0,0.0
 John Stones,Defender,England,0.0,0.0,0.0,0.0,0.0,0.0,1.0,5.0,0.0
-Jarell Quansah,Defender,England,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4.0,0.0
+Jarell Quansah,Defender,England,0.0,0.0,0.0,0.0,1.0,0.0,2.0,4.0,0.0
 Djed Spence,Defender,England,0.0,0.0,0.54,1.0,1.0,0.0,7.0,3.0,0.0
+Dan Burn,Defender,England,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 Ezri Konsa,Defender,England,0.0,0.0,0.63,1.0,0.0,0.0,2.0,8.0,0.0
-Jordan Pickford,Goalkeeper,England,0.0,0.0,0.0,0.0,0.0,0.0,0.0,32.0,6.0
+Jordan Pickford,Goalkeeper,England,0.0,0.0,0.0,0.0,0.0,1.0,0.0,41.0,9.0
 Ante Budimir,Forward,Croatia,1.0,0.0,0.97,0.0,1.0,0.0,1.0,4.0,0.0
 Andrej Kramarić,Forward,Croatia,0.0,0.0,0.01,0.0,0.0,0.0,1.0,3.0,0.0
 Igor Matanović,Forward,Croatia,0.0,0.0,0.41,1.0,2.0,2.0,1.0,2.0,0.0
@@ -1019,3 +1027,4 @@ Orlando Mosquera,Goalkeeper,Panama,0.0,0.0,0.0,0.0,0.0,1.0,0.0,21.0,7.0
 Arjan Malic,Defender,Bosnia and Herzegovina,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0
 Marcos Senesi,Defender,Argentina,0.0,0.0,0.28,1.0,0.0,0.0,0.0,4.0,0.0
 Shuto Machino,Forward,Japan,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+Marwane Saadane,Defender,Morocco,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0

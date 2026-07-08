@@ -256,3 +256,26 @@ goal_no,scored_for,scored_by,minute,half,assist_by,goal_type,scored_ag,match_no
 255,Cape Verde,Sidny Lopes Cabral,103,ET-1,Yannick Semedo,Regular,Argentina,87
 256,Argentina,Diney Borges,111,ET-2,,Own goal,Cape Verde,87
 257,Colombia,Jhon Arias,14,1,Luis Javier Suárez,Regular,Ghana,88
+258,Morocco,Azzedine Ounahi,50,2,Achraf Hakimi,Regular,Canada,89
+259,Morocco,Azzedine Ounahi,82,2,Brahim Díaz,Regular,Canada,89
+260,Morocco,Soufiane Rahimi,98,2,Brahim Díaz,Regular,Canada,89
+261,France,Kylian Mbappé,70,2,,Penalty,Paraguay,90
+262,Norway,Erling Haaland,79,2,Andreas Schjelderup,Header,Brazil,91
+263,Norway,Erling Haaland,90,2,Andreas Schjelderup,Regular,Brazil,91
+264,Brazil,Neymar,100,2,,Penalty,Norway,91
+265,England,Jude Bellingham,36,1,Bukayo Saka,Header,Mexico,92
+266,England,Jude Bellingham,38,1,Harry Kane,Regular,Mexico,92
+267,Mexico,Julián Quiñones,42,1,,Regular,England,92
+268,England,Harry Kane,60,2,,Penalty,Mexico,92
+269,Mexico,Raul Jiménez,69,2,,Penalty,England,92
+270,Spain,Mikel Merino,91,2,Ferran Torres,Regular,Portugal,93
+271,Belgium,Charles De Ketelaere,9,1,Nicolas Raskin,Regular,USA,94
+272,USA,Malik Tillman,31,1,,Free kick,Belgium,94
+273,Belgium,Charles De Ketelaere,33,1,Leandro Trossard,Header,USA,94
+274,Belgium,Hans Vanaken,57,2,Charles De Ketelaere,Regular,USA,94
+275,Belgium,Romelu Lukaku,93,2,Hans Vanaken,Regular,USA,94
+276,Egypt,Yasser Ibrahim,15,1,Marwan Attia,Header,Argentina,95
+277,Egypt,Mostafa Ziko,67,2,Haissem Hassan,Regular,Argentina,95
+278,Argentina,Cristian Romero,79,2,Lionel Messi,Header,Egypt,95
+279,Argentina,Lionel Messi,83,2,Gonzalo Montiel,Regular,Egypt,95
+280,Argentina,Enzo Fernández,92,2,Lautaro Martínez,Header,Egypt,95

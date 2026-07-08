@@ -87,3 +87,11 @@ match_no,match_type,Group_name,home_team,HTG,ATG,away_team,winner,potm,stadium,c
 86,Knockouts,RO32,Australia,1,1,Egypt,Egypt,Mohamed Salah,AT&T Stadium,Dallas,Gustavo Adrian Tejera Capo,Pen
 87,Knockouts,RO32,Argentina,3,2,Cape Verde,Argentina,Lionel Messi,Hard Rock Stadium,Miami,Drew Thomas Fischer,AET
 88,Knockouts,RO32,Colombia,1,0,Ghana,Colombia,Luis Díaz,Arrowhead Stadium,Kansas City,Clément Turpin,FT
+89,Knockouts,RO16,Canada,0,3,Morocco,Morocco,Azzedine Ounahi,NRG Stadium,Houston,Michael Oliver,FT
+90,Knockouts,RO16,Paraguay,0,1,France,France,Orlando Gill,Lincoln Financial Field,Philadelphia,Ilgiz Tantashev,FT
+91,Knockouts,RO16,Brazil,1,2,Norway,Norway,Erling Haaland,MetLife Stadium,New York,Ismail Elfath,FT
+92,Knockouts,RO16,Mexico,2,3,England,England,Jude Bellingham,Estadio Azteca,Mexico City,Alireza Faghani,FT
+93,Knockouts,RO16,Portugal,0,1,Spain,Spain,Rodri,AT&T Stadium,Dallas,Anthony Taylor,FT
+94,Knockouts,RO16,USA,1,4,Belgium,Belgium,Charles De Ketelaere,Lumen Field,Seattle,Adham Mohammad Tumah Makhadmeh,FT
+95,Knockouts,RO16,Argentina,3,2,Egypt,Argentina,Lionel Messi,Mercedes-Benz Stadium,Atlanta,François Letexier,FT
+96,Knockouts,RO16,Switzerland,0,0,Colombia,Switzerland,Gregor Kobel,BC Place,Vancouver,Iván Arcides Barton Cisneros,Pen

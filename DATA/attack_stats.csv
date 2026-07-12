@@ -41,6 +41,7 @@ Achraf Hakimi,Morocco,30,0,0,0.31,0,1,1
 Achraf Hakimi,Morocco,51,1,1,1.34,0,5,7
 Achraf Hakimi,Morocco,76,0,0,0.23,1,0,3
 Achraf Hakimi,Morocco,89,0,1,0.0,0,1,1
+Achraf Hakimi,Morocco,97,0,0,0.04,0,3,2
 Adam Hlozek,Czechia,2,0,0,0.18,0,0,0
 Adam Hlozek,Czechia,25,0,0,0.04,0,0,0
 Adam Hlozek,Czechia,53,0,0,0.0,0,1,2
@@ -50,6 +51,7 @@ Adrien Rabiot,France,17,0,1,0.0,0,0,2
 Adrien Rabiot,France,42,0,0,0.57,1,0,0
 Adrien Rabiot,France,78,0,0,0.06,0,0,3
 Adrien Rabiot,France,90,0,0,0.09,0,0,1
+Adrien Rabiot,France,97,0,0,0.05,0,1,0
 Agustín Canobbio,Uruguay,15,0,0,0.02,0,1,0
 Agustín Canobbio,Uruguay,39,1,0,0.62,0,0,2
 Agustín Canobbio,Uruguay,64,0,0,0.07,0,0,0
@@ -113,6 +115,7 @@ Alex Baena,Spain,37,0,0,0.05,0,0,2
 Alex Baena,Spain,64,1,0,0.14,0,0,1
 Alex Baena,Spain,83,0,1,0.05,0,0,5
 Alex Baena,Spain,93,0,0,0.17,0,1,0
+Alex Baena,Spain,98,0,0,0.1,0,0,1
 Alex Sandro,Brazil,52,0,0,0.0,0,0,0
 Alex Zendejas,USA,60,0,0,0.02,0,0,0
 Alexander Bernhardsson,Sweden,12,0,0,0.0,0,1,0
@@ -137,6 +140,7 @@ Alexander Sørloth,Norway,18,0,0,0.19,0,0,1
 Alexander Sørloth,Norway,43,0,0,0.0,0,0,0
 Alexander Sørloth,Norway,77,0,0,0.23,1,0,2
 Alexander Sørloth,Norway,91,0,0,0.0,0,0,0
+Alexander Sørloth,Norway,99,0,0,0.2,0,1,1
 Alexandr Sojka,Czechia,2,0,0,0.0,0,1,1
 Alexandr Sojka,Czechia,25,0,1,0.0,0,1,1
 Alexandr Sojka,Czechia,53,0,0,0.0,0,0,1
@@ -147,9 +151,11 @@ Alexis Mac Allister,Argentina,41,0,0,0.0,0,0,0
 Alexis Mac Allister,Argentina,72,0,0,0.0,0,0,0
 Alexis Mac Allister,Argentina,87,0,1,0.13,0,0,2
 Alexis Mac Allister,Argentina,95,0,0,0.41,1,0,1
+Alexis Mac Allister,Argentina,100,1,0,0.65,1,1,1
 Alexis Saelemaekers,Belgium,38,0,0,0.08,0,2,0
 Alexis Saelemaekers,Belgium,66,1,0,0.1,0,0,0
 Alexis Saelemaekers,Belgium,94,0,0,0.0,0,0,0
+Alexis Saelemaekers,Belgium,98,0,0,0.0,0,1,0
 Alexis Vega,Mexico,1,0,0,0.0,0,0,0
 Alhashmi Mohialdin,Qatar,27,0,0,0.0,0,0,0
 Ali Abdi,Tunisia,12,0,0,0.0,0,1,0
@@ -222,6 +228,7 @@ Amine Gouiri,Algeria,19,0,0,0.0,0,0,0
 Amine Gouiri,Algeria,44,1,0,0.49,0,1,1
 Amine Gouiri,Algeria,71,0,0,0.0,0,0,0
 Amine Gouiri,Algeria,85,0,0,0.0,0,0,0
+Amine Sbai,Morocco,97,0,0,0.0,0,0,0
 Amir Al-Ammari,Iraq,18,0,1,0.0,0,0,3
 Amir Al-Ammari,Iraq,42,0,0,0.0,0,1,0
 Amir Al-Ammari,Iraq,62,0,0,0.0,0,0,1
@@ -234,11 +241,13 @@ Amirhossein Hosseinzadeh,Iran,38,0,0,0.05,0,0,0
 Anass Salah-Eddine,Morocco,6,0,0,0.0,0,0,0
 Anass Salah-Eddine,Morocco,51,0,0,0.0,0,0,1
 Anass Salah-Eddine,Morocco,76,0,0,0.02,0,0,0
+Anass Salah-Eddine,Morocco,97,0,0,0.0,0,0,0
 Andreas Schjelderup,Norway,18,0,0,0.0,0,0,1
 Andreas Schjelderup,Norway,43,0,0,0.0,0,1,1
 Andreas Schjelderup,Norway,61,0,1,0.0,0,1,1
 Andreas Schjelderup,Norway,77,0,0,0.07,0,1,0
 Andreas Schjelderup,Norway,91,0,2,0.07,0,1,2
+Andreas Schjelderup,Norway,99,1,0,0.02,0,0,0
 Andrej Kramarić,Croatia,22,0,0,0.01,0,0,0
 Andrej Kramarić,Croatia,47,0,0,0.0,0,0,0
 Andrej Kramarić,Croatia,84,0,0,0.0,0,0,0
@@ -284,6 +293,7 @@ Anthony Gordon,England,22,0,0,0.27,1,0,0
 Anthony Gordon,England,46,0,0,0.03,0,2,2
 Anthony Gordon,England,80,0,2,0.03,0,0,2
 Anthony Gordon,England,92,0,0,0.04,0,2,1
+Anthony Gordon,England,99,0,1,0.0,0,4,1
 Antoine Semenyo,Ghana,23,0,0,0.11,0,0,1
 Antoine Semenyo,Ghana,46,0,0,0.0,0,1,0
 Antoine Semenyo,Ghana,67,0,0,0.02,1,1,0
@@ -297,6 +307,7 @@ Antonio Nusa,Norway,43,0,0,0.09,0,0,1
 Antonio Nusa,Norway,61,0,0,0.0,0,1,0
 Antonio Nusa,Norway,77,1,0,0.02,0,1,1
 Antonio Nusa,Norway,91,0,0,0.0,0,2,0
+Antonio Nusa,Norway,99,0,0,0.13,0,0,0
 Antonio Rudiger,Germany,9,0,0,0.0,0,0,0
 Antonio Rudiger,Germany,34,0,0,0.02,0,0,0
 Antonio Rudiger,Germany,56,0,0,0.0,0,0,0
@@ -311,6 +322,7 @@ Arda Guler,Türkiye,32,0,0,0.25,0,0,3
 Arda Guler,Türkiye,60,1,0,0.53,0,3,0
 Ardon Jashari,Switzerland,5,0,0,0.01,0,0,0
 Ardon Jashari,Switzerland,96,0,0,0.0,0,0,1
+Ardon Jashari,Switzerland,100,0,0,0.01,0,0,1
 Aria Yousefi,Iran,16,0,0,0.05,0,0,1
 Arjan Malic,Bosnia and Herzegovina,49,0,0,0.0,0,0,0
 Armando Gonzalez,Mexico,1,0,0,0.0,0,0,0
@@ -344,6 +356,7 @@ Axel Tuanzebe,DR Congo,48,0,0,0.0,0,0,0
 Axel Tuanzebe,DR Congo,70,0,0,0.0,0,0,0
 Axel Tuanzebe,DR Congo,80,0,0,0.0,0,0,0
 Axel Witsel,Belgium,94,0,0,0.0,0,0,0
+Axel Witsel,Belgium,98,0,0,0.0,0,0,0
 Ayase Ueda,Japan,10,0,0,0.1,0,1,1
 Ayase Ueda,Japan,36,2,1,0.54,1,1,2
 Ayase Ueda,Japan,57,0,0,0.08,0,0,0
@@ -357,6 +370,7 @@ Aymeric Laporte,Spain,37,0,1,0.0,0,0,2
 Aymeric Laporte,Spain,64,0,0,0.0,0,0,1
 Aymeric Laporte,Spain,83,0,0,0.19,0,0,0
 Aymeric Laporte,Spain,93,0,0,0.0,0,0,0
+Aymeric Laporte,Spain,98,0,0,0.0,0,0,0
 Ayoub Al Oui,Qatar,5,0,0,0.0,0,0,0
 Ayoub Al Oui,Qatar,27,0,0,0.0,0,0,0
 Ayoub El Kaabi,Morocco,51,0,0,0.17,0,1,0
@@ -368,6 +382,7 @@ Ayyoub Bouaddi,Morocco,6,0,0,0.0,0,3,0
 Ayyoub Bouaddi,Morocco,30,0,0,0.01,0,0,0
 Ayyoub Bouaddi,Morocco,76,0,0,0.07,0,1,0
 Ayyoub Bouaddi,Morocco,89,0,0,0.0,0,1,0
+Ayyoub Bouaddi,Morocco,97,0,0,0.0,0,0,0
 Azarias Londoño,Panama,23,0,0,0.0,0,0,2
 Azarias Londoño,Panama,47,0,0,0.0,0,2,0
 Azarias Londoño,Panama,68,0,0,0.02,0,0,0
@@ -382,6 +397,7 @@ Azzedine Ounahi,Morocco,30,0,0,0.0,0,0,2
 Azzedine Ounahi,Morocco,51,0,0,0.01,0,0,0
 Azzedine Ounahi,Morocco,76,0,0,0.03,0,1,3
 Azzedine Ounahi,Morocco,89,2,0,0.24,0,2,1
+Azzedine Ounahi,Morocco,97,0,0,0.02,0,5,1
 Bara Sapoko Ndiaye,Senegal,81,0,0,0.03,0,0,1
 Baris Alper Yilmaz,Türkiye,8,0,0,0.0,0,0,0
 Baris Alper Yilmaz,Türkiye,32,0,0,0.02,0,3,1
@@ -423,11 +439,13 @@ Bilal El Khannouss,Morocco,30,0,0,0.18,1,0,1
 Bilal El Khannouss,Morocco,51,0,0,0.09,0,5,3
 Bilal El Khannouss,Morocco,76,0,0,0.02,0,0,0
 Bilal El Khannouss,Morocco,89,0,0,0.0,0,0,1
+Bilal El Khannouss,Morocco,97,0,0,0.0,0,0,0
 Bono,Morocco,6,0,0,0.0,0,0,0
 Bono,Morocco,30,0,0,0.0,0,0,0
 Bono,Morocco,51,0,0,0.0,0,0,0
 Bono,Morocco,76,0,0,0.0,0,0,0
 Bono,Morocco,89,0,0,0.0,0,0,0
+Bono,Morocco,97,0,0,0.0,0,0,0
 Borja Iglesias,Spain,93,0,0,0.0,0,0,0
 Boualem Khoukhi,Qatar,5,0,0,0.0,0,0,0
 Boualem Khoukhi,Qatar,27,0,0,0.04,0,0,0
@@ -437,11 +455,13 @@ Bradley Barcola,France,42,0,0,0.02,0,2,0
 Bradley Barcola,France,61,0,1,0.0,0,0,2
 Bradley Barcola,France,78,1,0,1.0,1,3,1
 Bradley Barcola,France,90,0,0,0.04,0,5,2
+Bradley Barcola,France,97,0,0,0.05,0,0,2
 Brahim Diaz,Morocco,6,0,1,0.1,0,1,2
 Brahim Diaz,Morocco,30,0,1,0.04,0,3,3
 Brahim Diaz,Morocco,51,0,0,0.23,1,1,1
 Brahim Diaz,Morocco,76,0,0,0.0,0,0,0
 Brahim Diaz,Morocco,89,0,2,0.0,0,0,2
+Brahim Diaz,Morocco,97,0,0,0.04,0,2,0
 Braian Ojeda,Paraguay,75,0,0,0.0,0,0,0
 Brandley Kuwas,Curaçao,55,0,0,0.0,0,0,0
 Brandon Mechele,Belgium,14,0,0,0.33,1,0,0
@@ -449,6 +469,7 @@ Brandon Mechele,Belgium,38,0,0,0.07,0,0,0
 Brandon Mechele,Belgium,66,0,0,0.07,0,1,0
 Brandon Mechele,Belgium,81,0,0,0.07,0,0,2
 Brandon Mechele,Belgium,94,0,0,0.0,0,0,0
+Brandon Mechele,Belgium,98,0,0,0.0,0,0,0
 Brandon Thomas-Asante,Ghana,23,0,0,0.06,0,1,0
 Brandon Thomas-Asante,Ghana,67,0,0,0.0,0,0,0
 Breel Embolo,Switzerland,5,1,0,1.14,1,1,5
@@ -456,6 +477,7 @@ Breel Embolo,Switzerland,26,0,1,0.15,0,0,2
 Breel Embolo,Switzerland,50,0,1,0.67,1,2,1
 Breel Embolo,Switzerland,85,1,0,1.0,0,1,0
 Breel Embolo,Switzerland,96,0,0,0.0,0,0,0
+Breel Embolo,Switzerland,100,0,0,0.08,0,0,0
 Brenden Aaronson,USA,60,0,0,0.54,1,0,2
 Brian Brobbey,Netherlands,10,0,0,0.0,0,0,0
 Brian Brobbey,Netherlands,33,2,0,1.29,0,0,2
@@ -485,6 +507,7 @@ Bukayo Saka,England,46,0,0,0.15,0,1,0
 Bukayo Saka,England,68,0,1,0.12,0,1,1
 Bukayo Saka,England,80,0,0,0.0,0,1,0
 Bukayo Saka,England,92,0,1,0.0,0,0,1
+Bukayo Saka,England,99,0,0,0.18,0,2,2
 Caglar Soyuncu,Türkiye,60,0,0,0.0,0,0,0
 Caleb Yirenkyi,Ghana,23,1,0,1.0,0,3,0
 Caleb Yirenkyi,Ghana,46,0,0,0.0,0,0,0
@@ -545,6 +568,7 @@ Charles De Ketelaere,Belgium,14,0,0,0.0,0,2,1
 Charles De Ketelaere,Belgium,66,0,0,0.2,0,1,2
 Charles De Ketelaere,Belgium,81,0,0,0.0,0,0,0
 Charles De Ketelaere,Belgium,94,2,1,1.11,0,1,3
+Charles De Ketelaere,Belgium,98,1,0,0.17,0,0,0
 Charles Pickel,DR Congo,21,0,0,0.0,0,0,0
 Charles Pickel,DR Congo,48,0,0,0.06,0,0,0
 Che Adams,Scotland,7,0,0,0.58,1,0,0
@@ -554,6 +578,7 @@ Chemsdine Talbi,Morocco,6,0,0,0.0,0,0,0
 Chemsdine Talbi,Morocco,30,0,0,0.05,0,0,1
 Chemsdine Talbi,Morocco,76,0,1,0.0,0,1,1
 Chemsdine Talbi,Morocco,89,0,0,0.0,0,1,0
+Chemsdine Talbi,Morocco,97,0,0,0.0,0,0,0
 Chris Richards,USA,4,0,0,0.03,0,0,0
 Chris Richards,USA,29,0,0,0.0,0,0,0
 Chris Richards,USA,82,0,0,0.0,0,0,0
@@ -586,6 +611,7 @@ Cristian Romero,Argentina,19,0,0,0.0,0,0,0
 Cristian Romero,Argentina,41,0,0,0.0,0,0,0
 Cristian Romero,Argentina,87,0,0,0.12,1,1,0
 Cristian Romero,Argentina,95,1,0,0.35,0,0,0
+Cristian Romero,Argentina,100,0,0,0.04,0,0,0
 Cristian Volpato,Australia,29,0,0,0.15,0,5,1
 Cristian Volpato,Australia,59,0,0,0.02,0,3,3
 Cristian Volpato,Australia,86,0,0,0.04,0,4,0
@@ -618,16 +644,19 @@ Damian Bobadilla,Paraguay,32,0,0,0.0,0,0,0
 Damian Bobadilla,Paraguay,59,0,0,0.0,0,0,0
 Damian Bobadilla,Paraguay,75,0,0,0.0,0,0,0
 Dan Burn,England,92,0,0,0.0,0,0,0
+Dan Burn,England,99,0,0,0.0,0,0,0
 Dan Ndoye,Switzerland,5,0,0,0.4,1,2,0
 Dan Ndoye,Switzerland,26,0,0,0.1,1,3,1
 Dan Ndoye,Switzerland,50,0,0,0.0,0,0,0
 Dan Ndoye,Switzerland,85,1,0,0.09,0,2,1
 Dan Ndoye,Switzerland,96,0,0,0.05,0,1,0
+Dan Ndoye,Switzerland,100,1,0,0.22,0,2,0
 Dani Olmo,Spain,13,0,0,0.0,0,0,1
 Dani Olmo,Spain,37,0,1,0.05,0,1,1
 Dani Olmo,Spain,64,0,0,0.17,0,1,0
 Dani Olmo,Spain,83,0,0,0.16,0,0,2
 Dani Olmo,Spain,93,0,0,0.1,1,1,2
+Dani Olmo,Spain,98,0,0,0.25,0,2,1
 Daniel Muñoz,Colombia,24,1,0,0.48,0,0,0
 Daniel Muñoz,Colombia,48,1,0,0.27,1,0,0
 Daniel Muñoz,Colombia,69,0,0,0.0,0,0,1
@@ -660,6 +689,7 @@ David Møller Wolfe,Norway,18,0,1,0.0,0,0,1
 David Møller Wolfe,Norway,43,0,0,0.0,0,1,0
 David Møller Wolfe,Norway,77,0,0,0.0,0,0,0
 David Møller Wolfe,Norway,91,0,0,0.0,0,0,0
+David Møller Wolfe,Norway,99,0,0,0.0,0,0,0
 David Raum,Germany,9,0,0,0.03,0,0,0
 David Raum,Germany,56,0,0,0.0,0,0,2
 David Zima,Czechia,25,0,0,0.0,0,0,0
@@ -673,15 +703,18 @@ Dayot Upamecano,France,42,0,0,0.0,0,0,1
 Dayot Upamecano,France,61,0,0,0.0,0,2,0
 Dayot Upamecano,France,78,0,0,0.13,0,0,0
 Dayot Upamecano,France,90,0,0,0.0,0,0,0
+Dayot Upamecano,France,97,0,0,0.44,1,0,0
 Declan Rice,England,22,0,1,0.04,0,1,4
 Declan Rice,England,46,0,0,0.12,0,2,6
 Declan Rice,England,80,0,0,0.0,0,0,2
 Declan Rice,England,92,0,0,0.0,0,0,0
+Declan Rice,England,99,0,0,0.0,0,0,1
 Deiver Machado,Colombia,69,0,0,0.0,0,0,1
 Denis Visinsky,Czechia,53,0,0,0.23,0,2,0
 Denis Zakaria,Switzerland,5,0,0,0.27,0,1,0
 Denis Zakaria,Switzerland,85,0,0,0.38,0,2,1
 Denis Zakaria,Switzerland,96,0,0,0.0,0,1,0
+Denis Zakaria,Switzerland,100,0,0,0.02,0,0,1
 Deniz Gul,Türkiye,8,0,0,0.0,0,0,0
 Deniz Gul,Türkiye,32,0,0,0.59,2,0,0
 Deniz Undav,Germany,9,1,2,0.5,0,0,3
@@ -709,6 +742,7 @@ Désiré Doué,France,42,0,0,0.0,0,0,0
 Désiré Doué,France,61,1,0,0.21,1,2,3
 Désiré Doué,France,78,0,0,0.04,0,0,1
 Désiré Doué,France,90,0,0,0.03,0,2,3
+Désiré Doué,France,97,0,1,0.37,1,2,3
 Deveron Fonville,Curaçao,9,0,0,0.0,0,1,0
 Deveron Fonville,Curaçao,35,0,0,0.0,0,1,1
 Deveron Fonville,Curaçao,55,0,0,0.0,0,3,0
@@ -733,9 +767,11 @@ Djed Spence,England,46,0,0,0.0,0,0,0
 Djed Spence,England,68,0,0,0.0,0,0,0
 Djed Spence,England,80,0,0,0.0,0,1,0
 Djed Spence,England,92,0,0,0.0,0,0,0
+Djed Spence,England,99,0,0,0.11,0,1,0
 Djibril Sow,Switzerland,26,0,0,0.0,0,0,0
 Djibril Sow,Switzerland,50,0,0,0.0,0,0,0
 Djibril Sow,Switzerland,96,0,0,0.19,0,0,1
+Djibril Sow,Switzerland,100,0,0,0.03,0,0,1
 Dodi Lukebakio,Belgium,38,0,0,0.04,0,0,0
 Dodi Lukebakio,Belgium,81,0,0,0.19,0,2,1
 Dodi Lukebakio,Belgium,94,0,0,0.16,1,6,0
@@ -762,6 +798,7 @@ Dzenis Burnic,Bosnia and Herzegovina,49,0,0,0.0,0,0,0
 Eberechi Eze,England,46,0,0,0.0,0,0,1
 Eberechi Eze,England,68,0,0,0.04,0,0,0
 Eberechi Eze,England,80,0,0,0.0,0,0,0
+Eberechi Eze,England,99,0,0,0.03,0,3,2
 Ederson,Brazil,31,0,0,0.25,1,0,0
 Ederson,Brazil,91,0,0,0.03,0,0,0
 Edin Dzeko,Bosnia and Herzegovina,26,0,0,0.12,0,0,0
@@ -807,6 +844,7 @@ Elliot Anderson,England,46,0,0,0.12,0,0,0
 Elliot Anderson,England,68,0,0,0.03,0,2,0
 Elliot Anderson,England,80,0,0,0.04,0,0,3
 Elliot Anderson,England,92,0,0,0.0,0,0,0
+Elliot Anderson,England,99,0,0,0.0,0,0,0
 Elliot Stroud,Sweden,12,0,0,0.0,0,0,0
 Elliot Stroud,Sweden,33,0,0,0.0,0,0,1
 Elliot Stroud,Sweden,57,0,0,0.0,0,0,1
@@ -830,6 +868,7 @@ Emiliano Martínez,Argentina,41,0,0,0.0,0,0,0
 Emiliano Martínez,Argentina,72,0,0,0.0,0,0,0
 Emiliano Martínez,Argentina,87,0,0,0.0,0,0,0
 Emiliano Martínez,Argentina,95,0,0,0.0,0,0,0
+Emiliano Martínez,Argentina,100,0,0,0.0,0,0,0
 Emmanuel Agbadou,Ivory Coast,11,0,0,0.0,0,0,0
 Emmanuel Agbadou,Ivory Coast,34,0,0,0.0,0,0,0
 Emmanuel Agbadou,Ivory Coast,77,0,0,0.1,0,1,0
@@ -845,6 +884,8 @@ Enzo Fernández,Argentina,19,0,0,0.0,0,0,1
 Enzo Fernández,Argentina,41,0,0,0.17,0,1,1
 Enzo Fernández,Argentina,87,0,0,0.27,0,2,0
 Enzo Fernández,Argentina,95,1,0,0.25,0,3,0
+Enzo Fernández,Argentina,100,0,0,0.0,0,0,1
+Eray Comert,Switzerland,100,0,0,0.0,0,0,0
 Eren Elmali,Türkiye,32,0,0,0.0,0,1,1
 Eren Elmali,Türkiye,60,0,0,0.0,0,2,1
 Éric Davis,Panama,47,0,0,0.0,0,0,0
@@ -857,6 +898,7 @@ Erling Haaland,Norway,18,2,0,1.85,2,1,1
 Erling Haaland,Norway,43,2,0,0.84,1,0,2
 Erling Haaland,Norway,77,1,0,1.17,1,0,1
 Erling Haaland,Norway,91,2,0,0.47,1,0,2
+Erling Haaland,Norway,99,0,0,0.11,0,0,0
 Ermedin Demirovic,Bosnia and Herzegovina,3,0,0,0.02,1,0,0
 Ermedin Demirovic,Bosnia and Herzegovina,26,0,0,0.0,0,0,0
 Ermedin Demirovic,Bosnia and Herzegovina,49,0,0,0.02,0,1,0
@@ -883,16 +925,19 @@ Ezri Konsa,England,46,0,0,0.0,0,0,0
 Ezri Konsa,England,68,0,0,0.0,0,0,0
 Ezri Konsa,England,80,0,0,0.0,0,0,0
 Ezri Konsa,England,92,0,0,0.0,0,0,0
+Ezri Konsa,England,99,0,0,0.0,0,1,0
 Fabian Balbuena,Paraguay,75,0,0,0.0,0,0,0
 Fabian Rieder,Switzerland,5,0,0,0.05,0,0,1
 Fabian Rieder,Switzerland,26,0,0,0.0,0,0,1
 Fabian Rieder,Switzerland,85,0,0,0.76,1,1,1
 Fabian Rieder,Switzerland,96,0,0,0.11,0,2,0
+Fabian Rieder,Switzerland,100,0,0,0.06,0,0,0
 Fabián Ruiz,Spain,13,0,0,0.31,1,0,0
 Fabián Ruiz,Spain,37,0,0,0.0,0,0,1
 Fabián Ruiz,Spain,64,0,0,0.0,0,0,1
 Fabián Ruiz,Spain,83,0,0,0.0,0,0,0
 Fabián Ruiz,Spain,93,0,0,0.0,0,0,0
+Fabián Ruiz,Spain,98,1,0,0.47,0,0,1
 Fabinho,Brazil,6,0,0,0.0,0,0,0
 Fabinho,Brazil,52,0,0,0.0,0,0,0
 Fabinho,Brazil,74,0,0,0.02,0,0,0
@@ -927,6 +972,7 @@ Ferran Torres,Spain,37,0,0,0.48,1,1,0
 Ferran Torres,Spain,64,0,0,0.38,1,1,0
 Ferran Torres,Spain,83,0,0,0.05,0,0,0
 Ferran Torres,Spain,93,0,1,0.01,0,0,1
+Ferran Torres,Spain,98,0,0,0.0,0,0,0
 Fidel Escobar,Panama,68,0,0,0.0,0,0,1
 Findlay Curtis,Scotland,7,0,0,0.0,0,0,0
 Findlay Curtis,Scotland,52,0,0,0.0,0,0,0
@@ -972,6 +1018,7 @@ Fredrik Aursnes,Norway,43,0,0,0.0,0,0,1
 Fredrik Aursnes,Norway,61,0,0,0.04,0,1,1
 Fredrik Aursnes,Norway,77,0,0,0.0,0,0,0
 Fredrik Aursnes,Norway,91,0,0,0.0,0,0,0
+Fredrik Aursnes,Norway,99,0,0,0.03,0,0,1
 Frenkie de Jong,Netherlands,10,0,0,0.0,0,1,1
 Frenkie de Jong,Netherlands,33,0,0,0.0,0,0,0
 Frenkie de Jong,Netherlands,58,0,0,0.11,0,0,1
@@ -1001,6 +1048,7 @@ Gervane Kastaneer,Curaçao,35,0,0,0.0,0,0,0
 Gervane Kastaneer,Curaçao,55,0,0,0.04,0,0,0
 Gessime Yassine,Morocco,51,1,0,0.9,0,0,0
 Gessime Yassine,Morocco,76,0,0,0.0,0,2,0
+Gessime Yassine,Morocco,97,0,0,0.02,0,0,0
 Ghislain Konan,Ivory Coast,11,0,0,0.06,0,1,1
 Ghislain Konan,Ivory Coast,34,0,0,0.02,0,2,0
 Ghislain Konan,Ivory Coast,77,0,0,0.14,0,3,0
@@ -1030,6 +1078,7 @@ Gonçalo Ramos,Portugal,84,1,0,0.13,0,1,0
 Gonzalo Montiel,Argentina,19,0,0,0.0,0,0,0
 Gonzalo Montiel,Argentina,87,0,0,0.09,0,0,0
 Gonzalo Montiel,Argentina,95,0,1,0.0,0,0,1
+Gonzalo Montiel,Argentina,100,0,0,0.0,0,0,0
 Gonzalo Plata,Ecuador,11,0,0,0.05,0,2,3
 Gonzalo Plata,Ecuador,35,0,0,0.38,1,2,3
 Gonzalo Plata,Ecuador,56,1,0,0.87,1,1,0
@@ -1039,6 +1088,7 @@ Granit Xhaka,Switzerland,26,1,0,0.81,0,0,1
 Granit Xhaka,Switzerland,50,0,0,0.04,0,0,0
 Granit Xhaka,Switzerland,85,0,0,0.0,0,0,0
 Granit Xhaka,Switzerland,96,0,0,0.04,0,2,0
+Granit Xhaka,Switzerland,100,0,0,0.05,0,1,0
 Grant Hanley,Scotland,7,0,0,0.0,0,0,0
 Grant Hanley,Scotland,30,0,0,0.0,0,0,0
 Gregor Kobel,Switzerland,5,0,0,0.0,0,0,0
@@ -1046,6 +1096,7 @@ Gregor Kobel,Switzerland,26,0,0,0.0,0,0,0
 Gregor Kobel,Switzerland,50,0,0,0.0,0,0,0
 Gregor Kobel,Switzerland,85,0,0,0.0,0,0,0
 Gregor Kobel,Switzerland,96,0,0,0.0,0,0,0
+Gregor Kobel,Switzerland,100,0,0,0.0,0,0,0
 Gue-sung Cho,South Korea,28,0,0,0.5,1,0,0
 Gue-sung Cho,South Korea,54,0,0,0.0,0,0,0
 Guela Doue,Ivory Coast,11,0,0,0.0,0,0,2
@@ -1112,12 +1163,14 @@ Hans Vanaken,Belgium,38,0,0,0.15,0,1,0
 Hans Vanaken,Belgium,66,0,1,0.15,0,0,7
 Hans Vanaken,Belgium,81,0,0,0.0,0,0,0
 Hans Vanaken,Belgium,94,1,1,0.08,0,1,1
+Hans Vanaken,Belgium,98,0,0,0.0,0,0,0
 Haris Tabakovic,Bosnia and Herzegovina,82,0,0,0.0,0,0,0
 Harry Kane,England,22,2,0,1.03,0,0,2
 Harry Kane,England,46,0,0,0.47,1,1,0
 Harry Kane,England,68,1,0,0.59,1,0,0
 Harry Kane,England,80,2,0,0.54,1,0,1
 Harry Kane,England,92,1,1,0.79,0,1,1
+Harry Kane,England,99,0,0,0.1,0,0,1
 Harry Souttar,Australia,8,0,0,0.04,0,1,1
 Harry Souttar,Australia,29,0,0,0.0,0,0,0
 Harry Souttar,Australia,59,0,0,0.0,0,0,0
@@ -1240,6 +1293,7 @@ Issa Diop,Morocco,6,0,0,0.0,0,0,0
 Issa Diop,Morocco,30,0,0,0.0,0,0,0
 Issa Diop,Morocco,76,1,0,0.18,0,0,0
 Issa Diop,Morocco,89,0,0,0.0,0,0,0
+Issa Diop,Morocco,97,0,0,0.0,0,0,0
 Issa Laye,Qatar,5,0,0,0.08,0,0,0
 Issa Laye,Qatar,27,0,0,0.0,0,0,0
 Issa Laye,Qatar,49,0,0,0.0,0,0,1
@@ -1320,6 +1374,7 @@ Jean-Kevin Duverne,Haiti,31,0,0,0.02,0,0,0
 Jean-Kevin Duverne,Haiti,51,0,1,0.0,0,1,2
 Jean-Philippe Mateta,France,61,0,0,0.0,0,0,0
 Jean-Philippe Mateta,France,78,0,0,0.25,1,0,0
+Jean-Philippe Mateta,France,97,0,0,0.91,2,1,0
 Jean-Ricner Bellegarde,Haiti,7,0,0,0.16,0,1,2
 Jean-Ricner Bellegarde,Haiti,31,0,0,0.0,0,0,1
 Jean-Ricner Bellegarde,Haiti,51,0,0,0.12,0,1,0
@@ -1338,6 +1393,7 @@ Jeremy Doku,Belgium,14,0,0,0.17,0,3,1
 Jeremy Doku,Belgium,66,0,0,0.09,0,2,2
 Jeremy Doku,Belgium,81,0,0,0.0,0,1,0
 Jeremy Doku,Belgium,94,0,0,0.0,0,2,1
+Jeremy Doku,Belgium,98,0,0,0.0,0,5,1
 Jerome Opoku,Ghana,23,0,0,0.0,0,0,1
 Jerome Opoku,Ghana,46,0,0,0.0,0,0,1
 Jerome Opoku,Ghana,88,0,0,0.0,0,1,0
@@ -1387,6 +1443,7 @@ João Neves,Portugal,84,0,0,0.1,1,1,1
 João Neves,Portugal,93,0,0,0.06,0,1,0
 João Paulo,Cape Verde,13,0,0,0.0,0,0,0
 João Paulo,Cape Verde,63,0,0,0.08,0,1,0
+Joaquin Seys,Belgium,98,0,0,0.0,0,0,0
 Joe Bell,New Zealand,16,0,0,0.0,0,1,0
 Joe Bell,New Zealand,40,0,0,0.02,0,1,1
 Joe Bell,New Zealand,66,0,0,0.0,0,0,0
@@ -1413,6 +1470,7 @@ John McGinn,Scotland,52,0,0,0.0,0,1,1
 John Stones,England,22,0,0,0.0,0,0,0
 John Stones,England,80,0,0,0.0,0,0,0
 John Stones,England,92,0,0,0.0,0,0,0
+John Stones,England,99,0,0,0.0,0,0,1
 John Yeboah,Ecuador,11,0,0,0.14,0,1,0
 John Yeboah,Ecuador,35,0,0,0.16,0,1,4
 John Yeboah,Ecuador,56,0,0,0.0,0,3,3
@@ -1448,6 +1506,7 @@ Jordan Pickford,England,46,0,0,0.0,0,0,0
 Jordan Pickford,England,68,0,0,0.0,0,0,0
 Jordan Pickford,England,80,0,0,0.0,0,0,0
 Jordan Pickford,England,92,0,0,0.0,0,0,1
+Jordan Pickford,England,99,0,0,0.0,0,0,0
 Jordy Alcivar,Ecuador,35,0,0,0.04,0,0,0
 Jordy Caicedo,Ecuador,35,0,0,0.0,0,0,0
 Jordy Caicedo,Ecuador,56,0,0,0.0,0,0,0
@@ -1458,6 +1517,7 @@ Jorge Sanchez,Mexico,53,0,1,0.03,0,1,3
 Jorge Sanchez,Mexico,79,0,0,0.0,0,0,2
 Jorge Sanchez,Mexico,92,0,0,0.0,0,0,0
 Jørgen Strand Larsen,Norway,61,0,0,1.04,2,1,2
+Jørgen Strand Larsen,Norway,99,0,0,0.0,0,0,0
 Joris Kayembe,DR Congo,21,0,0,0.0,0,0,0
 Joris Kayembe,DR Congo,48,0,0,0.02,0,0,1
 Joris Kayembe,DR Congo,70,0,0,0.0,0,0,1
@@ -1477,6 +1537,7 @@ José Luis Rodríguez,Panama,23,0,0,0.0,0,0,0
 José Luis Rodríguez,Panama,47,0,0,0.05,0,0,1
 José Luis Rodríguez,Panama,68,0,0,0.09,0,1,0
 José Manuel López,Argentina,72,0,0,0.02,0,0,0
+José Manuel López,Argentina,100,0,1,0.0,0,0,1
 Joshua Brenet,Curaçao,35,0,0,0.0,0,1,1
 Joshua Brenet,Curaçao,55,0,0,0.0,0,1,0
 Joshua Kimmich,Germany,9,0,2,0.0,0,0,5
@@ -1520,16 +1581,19 @@ Jude Bellingham,England,46,0,0,0.02,0,0,1
 Jude Bellingham,England,68,1,1,0.12,0,3,4
 Jude Bellingham,England,80,0,0,0.66,2,1,2
 Jude Bellingham,England,92,2,0,0.73,0,4,0
+Jude Bellingham,England,99,2,0,0.61,0,3,0
 Jules Koundé,France,17,0,0,0.0,0,0,1
 Jules Koundé,France,42,0,0,0.0,0,0,1
 Jules Koundé,France,61,0,0,0.0,0,0,1
 Jules Koundé,France,78,0,0,0.04,0,1,1
 Jules Koundé,France,90,0,0,0.0,0,0,0
+Jules Koundé,France,97,0,0,0.04,0,0,0
 Julián Alvarez,Argentina,19,0,0,0.0,0,0,0
 Julián Alvarez,Argentina,41,0,0,0.4,1,0,0
 Julián Alvarez,Argentina,72,0,0,0.09,0,0,0
 Julián Alvarez,Argentina,87,0,0,0.06,0,1,1
 Julián Alvarez,Argentina,95,0,0,0.31,1,0,0
+Julián Alvarez,Argentina,100,1,0,0.1,0,0,2
 Julian Quinones,Mexico,1,1,0,0.37,0,5,2
 Julian Quinones,Mexico,28,0,0,0.06,0,0,2
 Julian Quinones,Mexico,53,1,0,0.86,1,0,0
@@ -1538,6 +1602,7 @@ Julian Quinones,Mexico,92,1,0,0.22,0,0,3
 Julian Ryerson,Norway,18,0,0,0.0,0,1,3
 Julian Ryerson,Norway,43,0,0,0.0,0,0,1
 Julian Ryerson,Norway,91,0,0,0.0,0,1,0
+Julian Ryerson,Norway,99,0,0,0.0,0,0,2
 Julio Enciso,Paraguay,4,0,1,0.05,0,2,1
 Julio Enciso,Paraguay,32,0,1,0.09,0,7,4
 Julio Enciso,Paraguay,59,0,0,0.07,0,2,0
@@ -1618,6 +1683,7 @@ Kevin De Bruyne,Belgium,14,0,0,0.27,0,1,2
 Kevin De Bruyne,Belgium,38,0,0,0.32,0,2,3
 Kevin De Bruyne,Belgium,66,1,0,0.51,0,2,4
 Kevin De Bruyne,Belgium,81,0,0,0.05,0,2,1
+Kevin De Bruyne,Belgium,98,0,0,0.13,0,0,0
 Kevin Lenini,Cape Verde,39,1,0,0.04,0,1,2
 Kevin Lenini,Cape Verde,63,0,0,0.04,0,1,0
 Kevin Lenini,Cape Verde,87,0,0,0.03,0,3,0
@@ -1663,6 +1729,7 @@ Kristoffer Ajer,Norway,18,0,0,0.0,0,0,0
 Kristoffer Ajer,Norway,43,0,0,0.2,1,0,0
 Kristoffer Ajer,Norway,77,0,0,0.0,0,0,0
 Kristoffer Ajer,Norway,91,0,0,0.0,0,1,1
+Kristoffer Ajer,Norway,99,0,0,0.09,1,1,0
 Kristoffer Nordfeldt,Sweden,12,0,0,0.0,0,0,0
 Kristoffer Nordfeldt,Sweden,33,0,0,0.0,0,0,0
 Kwasi Sibo,Ghana,23,0,0,0.0,0,0,0
@@ -1674,6 +1741,7 @@ Kylian Mbappé,France,42,2,0,1.23,2,2,2
 Kylian Mbappé,France,61,0,2,0.29,0,1,4
 Kylian Mbappé,France,78,2,0,0.6,1,3,4
 Kylian Mbappé,France,90,1,0,1.17,1,2,2
+Kylian Mbappé,France,97,1,1,1.34,2,1,4
 Ladislav Krejci,Czechia,2,1,0,0.21,0,0,0
 Ladislav Krejci,Czechia,25,0,0,0.25,0,1,2
 Ladislav Krejci,Czechia,53,0,0,0.0,0,0,0
@@ -1686,6 +1754,7 @@ Lamine Yamal,Spain,37,1,0,0.35,0,2,1
 Lamine Yamal,Spain,64,0,0,0.03,0,5,1
 Lamine Yamal,Spain,83,0,0,0.72,1,5,2
 Lamine Yamal,Spain,93,0,0,0.12,0,3,0
+Lamine Yamal,Spain,98,0,0,0.25,0,4,0
 Laros Duarte,Cape Verde,13,0,0,0.0,0,0,0
 Laros Duarte,Cape Verde,39,0,0,0.11,0,1,2
 Laros Duarte,Cape Verde,63,0,0,0.63,1,1,3
@@ -1695,6 +1764,7 @@ Lautaro Martínez,Argentina,41,0,0,0.0,0,0,0
 Lautaro Martínez,Argentina,72,1,0,1.37,1,0,1
 Lautaro Martínez,Argentina,87,0,0,0.0,0,0,1
 Lautaro Martínez,Argentina,95,0,1,0.43,1,0,1
+Lautaro Martínez,Argentina,100,1,0,0.34,0,0,2
 Lawrence Ati Zigi,Ghana,23,0,0,0.0,0,0,0
 Lawrence Ati Zigi,Ghana,88,0,0,0.0,0,0,0
 Lawrence Shankland,Scotland,7,0,0,0.11,0,0,0
@@ -1706,11 +1776,13 @@ Leandro Paredes,Argentina,41,0,0,0.0,0,0,0
 Leandro Paredes,Argentina,72,0,0,0.0,0,0,0
 Leandro Paredes,Argentina,87,0,0,0.02,0,0,0
 Leandro Paredes,Argentina,95,0,0,0.03,0,1,0
+Leandro Paredes,Argentina,100,0,0,0.0,0,1,2
 Leandro Trossard,Belgium,14,0,0,0.2,0,3,3
 Leandro Trossard,Belgium,38,0,0,0.06,0,3,6
 Leandro Trossard,Belgium,66,2,0,1.23,1,1,4
 Leandro Trossard,Belgium,81,0,1,0.1,0,3,3
 Leandro Trossard,Belgium,94,0,1,0.16,0,0,1
+Leandro Trossard,Belgium,98,0,0,0.0,0,0,0
 Lee Tae-seok,South Korea,2,0,0,0.0,0,0,2
 Lee Tae-seok,South Korea,54,0,0,0.0,0,1,1
 Lenny Joseph,Haiti,7,0,0,0.0,0,0,1
@@ -1720,6 +1792,7 @@ Leo Østigård,Norway,18,1,0,0.28,0,0,0
 Leo Østigård,Norway,43,0,0,0.0,0,0,0
 Leo Østigård,Norway,61,0,0,0.07,0,0,0
 Leo Østigård,Norway,91,0,0,0.0,0,0,0
+Leo Østigård,Norway,99,0,0,0.0,0,0,0
 Leon Goretzka,Germany,9,0,0,0.0,0,0,0
 Leon Goretzka,Germany,34,0,0,0.0,0,0,0
 Leon Goretzka,Germany,75,0,0,0.25,0,0,1
@@ -1741,6 +1814,7 @@ Lionel Messi,Argentina,41,2,0,1.51,1,3,2
 Lionel Messi,Argentina,72,1,0,0.12,0,0,2
 Lionel Messi,Argentina,87,1,0,1.33,1,2,3
 Lionel Messi,Argentina,95,1,1,1.01,1,5,6
+Lionel Messi,Argentina,100,0,1,0.25,0,5,6
 Lionel Mpasi Nzau,DR Congo,21,0,0,0.0,0,0,0
 Lionel Mpasi Nzau,DR Congo,48,0,0,0.0,0,0,0
 Lionel Mpasi Nzau,DR Congo,70,0,0,0.0,0,0,0
@@ -1749,6 +1823,7 @@ Lisandro Martínez,Argentina,19,0,0,0.0,0,0,0
 Lisandro Martínez,Argentina,41,0,0,0.0,0,0,1
 Lisandro Martínez,Argentina,87,1,1,0.05,0,1,1
 Lisandro Martínez,Argentina,95,0,0,0.02,0,1,0
+Lisandro Martínez,Argentina,100,0,0,0.12,0,3,0
 Livano Comenencia,Curaçao,9,1,0,0.09,0,2,0
 Livano Comenencia,Curaçao,35,0,0,0.14,0,0,0
 Livano Comenencia,Curaçao,55,0,0,0.0,0,0,0
@@ -1773,6 +1848,7 @@ Lucas Bergvall,Sweden,78,0,0,0.04,0,1,0
 Lucas Digne,France,42,0,0,0.0,0,0,1
 Lucas Digne,France,78,0,0,0.02,0,0,0
 Lucas Digne,France,90,0,0,0.0,0,1,0
+Lucas Digne,France,97,0,0,0.02,0,0,0
 Lucas Herrington,Australia,59,0,0,0.0,0,0,0
 Lucas Herrington,Australia,86,0,0,0.0,0,0,0
 Lucas Mendes,Qatar,27,0,0,0.0,0,0,0
@@ -1834,15 +1910,18 @@ Malik Tillman,USA,94,1,0,0.07,0,1,1
 Malo Gusto,France,42,0,0,0.0,0,0,0
 Malo Gusto,France,61,0,0,0.0,0,0,0
 Malo Gusto,France,78,0,0,0.0,0,0,1
+Malo Gusto,France,97,0,0,0.0,0,0,0
 Manaf Younis,Iraq,62,0,0,0.0,0,0,0
 Manu Koné,France,42,0,0,0.03,0,1,0
 Manu Koné,France,61,0,0,0.11,1,0,1
 Manu Koné,France,90,0,0,0.06,0,1,1
+Manu Koné,France,97,0,0,0.04,0,0,1
 Manuel Akanji,Switzerland,5,0,0,0.27,0,0,2
 Manuel Akanji,Switzerland,26,0,0,0.0,0,0,1
 Manuel Akanji,Switzerland,50,0,0,0.0,0,1,0
 Manuel Akanji,Switzerland,85,0,0,0.0,0,0,1
 Manuel Akanji,Switzerland,96,0,0,0.0,0,0,0
+Manuel Akanji,Switzerland,100,0,0,0.0,0,0,0
 Manuel Neuer,Germany,9,0,0,0.0,0,0,0
 Manuel Neuer,Germany,34,0,0,0.0,0,0,0
 Manuel Neuer,Germany,56,0,0,0.0,0,0,0
@@ -1855,11 +1934,13 @@ Marc Cucurella,Spain,37,0,0,0.18,1,1,0
 Marc Cucurella,Spain,64,0,0,0.0,0,0,0
 Marc Cucurella,Spain,83,0,2,0.0,0,0,2
 Marc Cucurella,Spain,93,0,0,0.0,0,0,0
+Marc Cucurella,Spain,98,0,0,0.05,0,0,1
 Marc Guéhi,England,22,0,0,0.0,0,0,0
 Marc Guéhi,England,46,0,0,0.17,0,0,0
 Marc Guéhi,England,68,0,0,0.0,0,0,1
 Marc Guéhi,England,80,0,0,0.0,0,0,0
 Marc Guéhi,England,92,0,0,0.0,0,1,0
+Marc Guéhi,England,99,0,0,0.0,0,0,0
 Marc Pubill,Spain,83,0,0,0.0,0,0,0
 Marcel Sabitzer,Austria,20,0,0,0.01,0,1,1
 Marcel Sabitzer,Austria,41,0,0,0.18,0,0,1
@@ -1875,6 +1956,7 @@ Marcos Senesi,Argentina,72,0,0,0.28,1,0,0
 Marcus Pedersen,Norway,43,1,0,0.13,0,0,1
 Marcus Pedersen,Norway,61,0,0,0.0,0,0,0
 Marcus Pedersen,Norway,77,0,0,0.0,0,0,1
+Marcus Pedersen,Norway,99,0,0,0.0,0,0,0
 Marcus Rashford,England,22,1,0,0.06,0,0,0
 Marcus Rashford,England,46,0,0,0.0,0,0,0
 Marcus Rashford,England,68,0,0,0.26,0,2,1
@@ -1914,6 +1996,7 @@ Martin Ødegaard,Norway,18,0,1,0.04,0,0,1
 Martin Ødegaard,Norway,43,0,1,0.75,1,0,1
 Martin Ødegaard,Norway,77,0,1,0.03,0,1,1
 Martin Ødegaard,Norway,91,0,0,0.47,1,1,1
+Martin Ødegaard,Norway,99,0,1,0.03,0,2,2
 Marvin Senaya,Ghana,23,0,0,0.0,0,0,0
 Marvin Senaya,Ghana,46,0,0,0.04,0,0,0
 Marvin Senaya,Ghana,67,0,0,0.03,0,0,0
@@ -1972,6 +2055,7 @@ Maxim De Cuyper,Belgium,38,0,0,0.89,1,1,0
 Maxim De Cuyper,Belgium,66,0,0,0.15,0,0,3
 Maxim De Cuyper,Belgium,81,0,0,0.05,0,0,0
 Maxim De Cuyper,Belgium,94,0,0,0.0,0,0,2
+Maxim De Cuyper,Belgium,98,0,0,0.05,0,1,0
 Maxime Crepeau,Canada,3,0,0,0.0,0,0,0
 Maxime Crepeau,Canada,27,0,0,0.0,0,0,0
 Maxime Crepeau,Canada,50,0,0,0.0,0,0,0
@@ -2014,6 +2098,7 @@ Michael Olise,France,42,0,2,0.16,0,3,3
 Michael Olise,France,61,0,0,0.51,0,1,0
 Michael Olise,France,78,0,2,0.86,1,2,3
 Michael Olise,France,90,0,0,0.0,0,3,1
+Michael Olise,France,97,0,0,0.17,0,4,1
 Michal Sadilek,Czechia,2,0,0,0.15,0,0,0
 Michal Sadilek,Czechia,25,1,0,0.31,0,0,1
 Michal Sadilek,Czechia,53,0,0,0.06,0,0,0
@@ -2033,22 +2118,26 @@ Mike Maignan,France,42,0,0,0.0,0,0,0
 Mike Maignan,France,61,0,0,0.0,0,0,0
 Mike Maignan,France,78,0,0,0.0,0,0,0
 Mike Maignan,France,90,0,0,0.0,0,0,0
+Mike Maignan,France,97,0,0,0.0,0,0,0
 Mikel Merino,Spain,13,0,0,0.1,0,0,2
 Mikel Merino,Spain,37,0,0,0.05,0,0,1
 Mikel Merino,Spain,64,0,0,0.0,0,0,0
 Mikel Merino,Spain,83,0,0,0.0,0,0,0
 Mikel Merino,Spain,93,1,0,0.55,0,0,0
+Mikel Merino,Spain,98,1,0,0.69,0,0,1
 Mikel Oyarzabal,Spain,13,0,0,0.5,0,0,1
 Mikel Oyarzabal,Spain,37,2,1,0.8,0,3,1
 Mikel Oyarzabal,Spain,64,0,0,0.02,0,0,0
 Mikel Oyarzabal,Spain,83,2,0,1.09,0,0,0
 Mikel Oyarzabal,Spain,93,0,0,0.65,1,0,2
+Mikel Oyarzabal,Spain,98,0,0,0.07,0,0,2
 Milad Mohammadi,Iran,16,0,0,0.0,0,0,0
 Milad Mohammadi,Iran,38,0,0,0.0,0,0,1
 Milad Mohammadi,Iran,65,0,0,0.12,0,4,1
 Miles Robinson,USA,60,0,0,0.06,0,0,1
 Miro Muheim,Switzerland,5,0,0,0.0,0,0,0
 Miro Muheim,Switzerland,96,0,0,0.0,0,0,0
+Miro Muheim,Switzerland,100,0,0,0.0,0,0,0
 Mo Abualnadi,Jordan,20,0,0,0.0,0,0,0
 Mohamed Abdelmonem,Egypt,40,0,0,0.0,0,0,0
 Mohamed Abdelmonem,Egypt,65,0,0,0.0,0,0,0
@@ -2111,6 +2200,7 @@ Morgan Rogers,England,22,0,0,0.0,0,0,2
 Morgan Rogers,England,46,0,0,0.0,0,1,0
 Morgan Rogers,England,68,0,0,0.0,0,1,1
 Morgan Rogers,England,92,0,0,0.0,0,0,0
+Morgan Rogers,England,99,0,0,0.02,0,0,0
 Mortadha Ben Ouanes,Tunisia,58,0,0,0.0,0,0,0
 Morten Thorsby,Norway,61,0,0,0.0,0,0,0
 Mory Diaw,Senegal,43,0,0,0.0,0,1,0
@@ -2150,6 +2240,7 @@ Nahuel Molina,Argentina,19,0,0,0.0,0,1,1
 Nahuel Molina,Argentina,41,0,0,0.0,0,1,0
 Nahuel Molina,Argentina,87,0,0,0.0,0,0,0
 Nahuel Molina,Argentina,95,0,0,0.0,0,0,2
+Nahuel Molina,Argentina,100,0,0,0.05,0,0,0
 Nasser Al-Dawsari,Saudi Arabia,15,0,0,0.0,0,0,0
 Nasser Al-Dawsari,Saudi Arabia,37,0,0,0.0,0,2,0
 Nasser Al-Dawsari,Saudi Arabia,63,0,0,0.03,0,2,0
@@ -2159,6 +2250,7 @@ Nathan Ake,Netherlands,76,0,0,0.0,0,0,0
 Nathan Ngoy,Belgium,14,0,0,0.0,0,1,0
 Nathan Ngoy,Belgium,38,0,0,0.05,0,0,0
 Nathan Ngoy,Belgium,94,0,0,0.0,0,0,1
+Nathan Ngoy,Belgium,98,0,0,0.0,0,0,0
 Nathan Patterson,Scotland,7,0,0,0.0,0,0,0
 Nathan Patterson,Scotland,30,0,0,0.0,0,0,0
 Nathan Patterson,Scotland,52,0,0,0.0,0,0,0
@@ -2178,6 +2270,7 @@ Neil El Aynaoui,Morocco,30,0,0,0.07,0,0,1
 Neil El Aynaoui,Morocco,51,0,0,0.1,0,0,0
 Neil El Aynaoui,Morocco,76,0,0,0.09,1,0,1
 Neil El Aynaoui,Morocco,89,0,0,0.0,0,0,0
+Neil El Aynaoui,Morocco,97,0,0,0.03,0,1,0
 Nélson Semedo,Portugal,21,0,0,0.0,0,1,0
 Nélson Semedo,Portugal,45,0,0,0.0,0,0,0
 Nélson Semedo,Portugal,84,0,0,0.0,0,1,1
@@ -2198,11 +2291,13 @@ Nico Elvedi,Switzerland,26,0,0,0.0,0,0,1
 Nico Elvedi,Switzerland,50,0,0,0.0,0,0,0
 Nico Elvedi,Switzerland,85,0,0,0.09,0,0,0
 Nico Elvedi,Switzerland,96,0,0,0.0,0,1,0
+Nico Elvedi,Switzerland,100,0,0,0.0,0,1,2
 Nico O'Reilly,England,22,0,0,0.18,1,3,2
 Nico O'Reilly,England,46,0,0,0.21,1,0,0
 Nico O'Reilly,England,68,0,0,0.18,0,1,2
 Nico O'Reilly,England,80,0,0,0.44,1,0,1
 Nico O'Reilly,England,92,0,0,0.06,0,0,0
+Nico O'Reilly,England,99,0,0,0.0,0,1,0
 Nico Paz,Argentina,19,0,0,0.0,0,0,0
 Nico Paz,Argentina,72,0,0,0.06,0,2,0
 Nico Schlotterbeck,Germany,9,1,0,0.31,0,2,0
@@ -2210,6 +2305,7 @@ Nico Schlotterbeck,Germany,34,0,0,0.0,0,0,1
 Nico Williams,Spain,13,0,0,0.0,0,0,0
 Nico Williams,Spain,37,0,0,0.0,0,0,0
 Nico Williams,Spain,64,0,0,0.0,0,0,0
+Nico Williams,Spain,98,0,0,0.0,0,0,0
 Nicolás de la Cruz,Uruguay,15,0,0,0.15,0,0,4
 Nicolás de la Cruz,Uruguay,39,0,0,0.01,0,0,0
 Nicolás de la Cruz,Uruguay,64,0,0,0.02,0,1,0
@@ -2217,6 +2313,7 @@ Nicolás González,Argentina,19,0,1,0.0,0,0,1
 Nicolás González,Argentina,41,0,0,0.28,1,1,0
 Nicolás González,Argentina,87,0,0,0.23,0,1,1
 Nicolás González,Argentina,95,0,0,0.0,0,1,2
+Nicolás González,Argentina,100,0,0,0.13,0,0,1
 Nicolas Jackson,Senegal,17,0,0,0.13,1,0,2
 Nicolas Jackson,Senegal,43,0,1,0.25,0,0,1
 Nicolas Jackson,Senegal,62,0,0,0.24,1,1,0
@@ -2225,6 +2322,7 @@ Nicolás Otamendi,Argentina,19,0,0,0.0,0,0,0
 Nicolás Otamendi,Argentina,41,0,0,0.0,0,0,0
 Nicolás Otamendi,Argentina,72,0,0,0.04,0,0,0
 Nicolás Otamendi,Argentina,95,0,0,0.0,0,0,0
+Nicolás Otamendi,Argentina,100,0,0,0.0,0,0,0
 Nicolas Pepe,Ivory Coast,11,0,0,0.22,0,1,0
 Nicolas Pepe,Ivory Coast,34,0,0,0.0,0,2,0
 Nicolas Pepe,Ivory Coast,55,2,0,0.56,0,1,1
@@ -2234,6 +2332,7 @@ Nicolas Raskin,Belgium,38,0,0,0.0,0,1,0
 Nicolas Raskin,Belgium,66,0,1,0.0,0,0,1
 Nicolas Raskin,Belgium,81,0,0,0.05,0,0,0
 Nicolas Raskin,Belgium,94,0,1,0.08,0,0,2
+Nicolas Raskin,Belgium,98,0,0,0.0,0,0,0
 Nicolas Seiwald,Austria,20,0,0,0.0,0,0,0
 Nicolas Seiwald,Austria,41,0,0,0.0,0,0,1
 Nicolas Seiwald,Austria,71,0,0,0.13,0,1,0
@@ -2242,6 +2341,7 @@ Nicolás Tagliafico,Argentina,41,0,0,0.0,0,0,0
 Nicolás Tagliafico,Argentina,72,0,0,0.0,0,0,1
 Nicolás Tagliafico,Argentina,87,0,0,0.0,0,0,0
 Nicolás Tagliafico,Argentina,95,0,0,0.0,0,0,1
+Nicolás Tagliafico,Argentina,100,0,0,0.0,0,1,0
 Niko Sigur,Canada,27,0,0,0.04,0,0,0
 Niko Sigur,Canada,73,0,0,0.0,0,0,1
 Niko Sigur,Canada,89,0,0,0.0,0,0,1
@@ -2277,6 +2377,7 @@ Noni Madueke,England,22,0,0,0.08,0,1,2
 Noni Madueke,England,46,0,0,0.11,0,0,2
 Noni Madueke,England,68,0,0,0.22,1,0,2
 Noni Madueke,England,80,0,0,0.04,0,3,3
+Noni Madueke,England,99,0,0,0.0,0,1,0
 Noor Al-Deen Al Rawabdeh,Jordan,20,0,1,0.0,0,1,2
 Noor Al-Deen Al Rawabdeh,Jordan,44,0,0,0.03,0,1,0
 Noor Al-Deen Al Rawabdeh,Jordan,72,0,0,0.0,0,2,0
@@ -2285,6 +2386,7 @@ Noussair Mazraoui,Morocco,30,0,0,0.0,0,0,0
 Noussair Mazraoui,Morocco,51,0,0,0.0,0,1,0
 Noussair Mazraoui,Morocco,76,0,0,0.0,0,0,0
 Noussair Mazraoui,Morocco,89,0,0,0.0,0,1,0
+Noussair Mazraoui,Morocco,97,0,0,0.0,0,0,0
 Nuno Da Costa,Cape Verde,13,0,0,0.0,0,0,0
 Nuno Da Costa,Cape Verde,39,0,0,0.0,0,2,0
 Nuno Da Costa,Cape Verde,63,0,0,0.03,0,1,1
@@ -2325,6 +2427,7 @@ Orbelin Pineda,Mexico,79,0,0,0.06,0,1,0
 Ørjan Nyland,Norway,43,0,0,0.0,0,0,0
 Ørjan Nyland,Norway,77,0,0,0.0,0,0,0
 Ørjan Nyland,Norway,91,0,0,0.0,0,0,0
+Ørjan Nyland,Norway,99,0,0,0.0,0,0,1
 Orkun Kokcu,Türkiye,8,0,0,0.07,0,0,3
 Orkun Kokcu,Türkiye,32,0,0,0.0,0,0,0
 Orkun Kokcu,Türkiye,60,0,1,0.68,1,1,2
@@ -2341,6 +2444,7 @@ Oscar Bobb,Norway,43,0,0,0.18,0,0,0
 Oscar Bobb,Norway,61,0,0,0.32,1,1,0
 Oscar Bobb,Norway,77,0,0,0.0,0,0,0
 Oscar Bobb,Norway,91,0,0,0.0,0,2,0
+Oscar Bobb,Norway,99,0,0,0.04,0,0,2
 Oston Urunov,Uzbekistan,24,0,0,0.0,0,1,0
 Oston Urunov,Uzbekistan,70,0,0,0.0,0,0,0
 Oswin Appollis,South Africa,1,0,0,0.0,0,0,0
@@ -2357,6 +2461,7 @@ Ousmane Dembélé,France,42,1,1,0.64,0,3,3
 Ousmane Dembélé,France,61,3,0,0.29,0,0,2
 Ousmane Dembélé,France,78,0,1,0.25,1,1,4
 Ousmane Dembélé,France,90,0,0,0.06,0,1,2
+Ousmane Dembélé,France,97,1,0,0.25,0,0,4
 Ousmane Diomande,Ivory Coast,55,0,0,0.0,0,0,0
 Oussama Benbot,Algeria,71,0,0,0.0,0,0,0
 Ozan Kabak,Türkiye,60,0,0,0.0,0,1,1
@@ -2382,6 +2487,7 @@ Patrick Berg,Norway,43,0,1,0.0,0,2,1
 Patrick Berg,Norway,61,0,0,0.07,0,0,1
 Patrick Berg,Norway,77,0,1,0.0,0,0,2
 Patrick Berg,Norway,91,0,0,0.04,0,2,0
+Patrick Berg,Norway,99,0,0,0.03,0,2,0
 Patrick Wimmer,Austria,20,0,0,0.0,0,0,0
 Patrick Wimmer,Austria,41,0,0,0.09,0,0,0
 Patrik Schick,Czechia,2,0,0,0.0,0,0,0
@@ -2392,6 +2498,7 @@ Pau Cubarsí,Spain,37,0,0,0.0,0,0,2
 Pau Cubarsí,Spain,64,0,0,0.12,0,0,0
 Pau Cubarsí,Spain,83,0,0,0.0,0,0,2
 Pau Cubarsí,Spain,93,0,0,0.0,0,0,0
+Pau Cubarsí,Spain,98,0,0,0.03,0,0,2
 Paul Okon-Engstler,Australia,8,0,1,0.0,0,0,2
 Paul Okon-Engstler,Australia,29,0,0,0.0,0,0,0
 Paul Okon-Engstler,Australia,59,0,0,0.0,0,0,0
@@ -2408,6 +2515,7 @@ Pedri,Spain,37,0,0,0.08,0,0,0
 Pedri,Spain,64,0,0,0.0,0,1,1
 Pedri,Spain,83,0,0,0.0,0,0,1
 Pedri,Spain,93,0,0,0.06,0,0,1
+Pedri,Spain,98,0,0,0.0,0,0,1
 Pedro Miguel,Qatar,5,0,0,0.0,0,1,0
 Pedro Miguel,Qatar,27,0,0,0.0,0,1,0
 Pedro Miguel,Qatar,49,0,0,0.22,1,0,0
@@ -2419,6 +2527,7 @@ Pedro Neto,Portugal,93,0,0,0.01,0,1,0
 Pedro Porro,Spain,37,0,0,0.22,0,0,3
 Pedro Porro,Spain,83,1,0,0.53,0,1,5
 Pedro Porro,Spain,93,0,0,0.01,0,0,0
+Pedro Porro,Spain,98,0,0,0.03,0,2,1
 Pedro Vite,Ecuador,11,0,0,0.05,0,0,1
 Pedro Vite,Ecuador,35,0,0,0.06,0,0,6
 Pedro Vite,Ecuador,56,0,1,0.0,0,0,1
@@ -2510,6 +2619,7 @@ Redouane Halhal,Morocco,51,0,0,0.0,0,0,0
 Redouane Halhal,Morocco,89,0,0,0.0,0,0,0
 Reece James,England,22,0,0,0.04,0,0,0
 Reece James,England,46,0,0,0.0,0,0,2
+Reece James,England,99,0,0,0.0,0,0,0
 Relebohile Mofokeng,South Africa,25,0,0,0.05,0,0,1
 Relebohile Mofokeng,South Africa,54,0,0,0.08,0,0,4
 Relebohile Mofokeng,South Africa,73,0,0,0.0,0,0,1
@@ -2518,6 +2628,7 @@ Remo Freuler,Switzerland,26,0,0,0.01,0,1,1
 Remo Freuler,Switzerland,50,0,0,0.0,0,0,0
 Remo Freuler,Switzerland,85,0,0,0.05,0,0,1
 Remo Freuler,Switzerland,96,0,0,0.0,0,0,0
+Remo Freuler,Switzerland,100,0,0,0.0,0,0,0
 Renato Veiga,Portugal,21,0,0,0.0,0,0,0
 Renato Veiga,Portugal,45,0,0,0.0,0,0,0
 Renato Veiga,Portugal,69,0,0,0.0,0,0,1
@@ -2536,6 +2647,7 @@ Ricardo Rodriguez,Switzerland,26,0,0,0.0,0,0,0
 Ricardo Rodriguez,Switzerland,50,0,0,0.0,0,0,2
 Ricardo Rodriguez,Switzerland,85,0,0,0.01,0,0,0
 Ricardo Rodriguez,Switzerland,96,0,0,0.0,0,0,0
+Ricardo Rodriguez,Switzerland,100,0,1,0.0,0,0,3
 Richard Ríos,Colombia,24,0,0,0.0,0,0,0
 Richard Ríos,Colombia,48,0,0,0.0,0,0,0
 Richard Ríos,Colombia,69,0,0,0.26,1,0,0
@@ -2568,6 +2680,7 @@ Rodri,Spain,37,0,0,0.04,0,2,1
 Rodri,Spain,64,0,0,0.0,0,0,0
 Rodri,Spain,83,0,0,0.02,0,0,2
 Rodri,Spain,93,0,0,0.02,0,0,1
+Rodri,Spain,98,0,0,0.13,0,0,2
 Rodrigo Aguirre,Uruguay,15,0,0,0.0,0,0,0
 Rodrigo Bentancur,Uruguay,15,0,0,0.2,0,2,2
 Rodrigo Bentancur,Uruguay,39,0,0,0.11,0,2,0
@@ -2576,6 +2689,7 @@ Rodrigo De Paul,Argentina,19,0,1,0.0,0,1,1
 Rodrigo De Paul,Argentina,41,0,0,0.0,0,0,0
 Rodrigo De Paul,Argentina,87,0,0,0.0,0,0,1
 Rodrigo De Paul,Argentina,95,0,0,0.04,0,0,2
+Rodrigo De Paul,Argentina,100,0,0,0.0,0,0,0
 Roger Ibanez,Brazil,6,0,0,0.0,0,1,0
 Romano Schmid,Austria,20,1,0,0.05,0,0,1
 Romano Schmid,Austria,41,0,0,0.0,0,3,0
@@ -2586,6 +2700,7 @@ Romelu Lukaku,Belgium,38,0,0,0.03,0,1,0
 Romelu Lukaku,Belgium,66,1,1,0.52,0,0,1
 Romelu Lukaku,Belgium,81,1,0,0.16,0,1,2
 Romelu Lukaku,Belgium,94,1,0,0.04,0,0,0
+Romelu Lukaku,Belgium,98,0,0,0.0,0,0,0
 Ronwen Williams,South Africa,1,0,0,0.0,0,0,0
 Ronwen Williams,South Africa,25,0,0,0.0,0,0,0
 Ronwen Williams,South Africa,54,0,0,0.0,0,0,0
@@ -2606,6 +2721,7 @@ Ruben Vargas,Switzerland,26,1,1,0.36,0,0,1
 Ruben Vargas,Switzerland,50,1,0,0.25,0,0,0
 Ruben Vargas,Switzerland,85,0,0,0.0,0,4,2
 Ruben Vargas,Switzerland,96,0,0,0.0,0,0,1
+Ruben Vargas,Switzerland,100,0,0,0.0,0,0,0
 Rustam Ashurmatov,Uzbekistan,24,0,0,0.0,0,0,0
 Rustam Ashurmatov,Uzbekistan,45,0,0,0.0,0,0,0
 Rustam Ashurmatov,Uzbekistan,70,0,0,0.0,0,1,0
@@ -2660,6 +2776,7 @@ Sander Berge,Norway,18,0,0,0.0,0,1,0
 Sander Berge,Norway,43,0,0,0.0,0,0,0
 Sander Berge,Norway,77,0,0,0.0,0,0,0
 Sander Berge,Norway,91,0,0,0.0,0,2,0
+Sander Berge,Norway,99,0,0,0.0,0,0,2
 Santiago Arias,Colombia,69,0,0,0.0,0,0,5
 Santiago Gimenez,Mexico,28,0,0,0.0,0,0,0
 Santiago Gimenez,Mexico,53,0,0,0.1,1,0,0
@@ -2695,6 +2812,7 @@ Sebastian Tounekti,Tunisia,36,0,0,0.0,0,0,0
 Sebastian Tounekti,Tunisia,58,0,0,0.0,0,0,0
 Seko Fofana,Ivory Coast,11,0,0,0.27,0,1,1
 Seko Fofana,Ivory Coast,34,0,0,0.02,0,0,0
+Senne Lammens,Belgium,98,0,0,0.0,0,0,0
 Sergino Dest,USA,4,0,0,0.0,0,4,0
 Sergino Dest,USA,29,0,0,0.13,0,2,1
 Sergino Dest,USA,60,0,0,0.0,0,1,1
@@ -2729,6 +2847,7 @@ Silvan Widmer,Switzerland,26,0,0,0.0,0,0,0
 Silvan Widmer,Switzerland,50,0,0,0.0,0,0,0
 Silvan Widmer,Switzerland,85,0,0,0.0,0,0,0
 Silvan Widmer,Switzerland,96,0,0,0.0,0,0,0
+Silvan Widmer,Switzerland,100,0,0,0.0,0,1,0
 Simon Adingra,Ivory Coast,34,0,0,0.0,0,0,1
 Simon Banza,DR Congo,21,0,0,0.0,0,0,0
 Simon Banza,DR Congo,48,0,0,0.0,0,0,1
@@ -2737,6 +2856,7 @@ Siphephelo Sithole,South Africa,54,0,0,0.0,0,1,1
 Siphephelo Sithole,South Africa,73,0,0,0.0,0,0,1
 Sofyan Amrabat,Morocco,51,0,0,0.0,0,0,0
 Sofyan Amrabat,Morocco,89,0,0,0.0,0,0,0
+Sofyan Amrabat,Morocco,97,0,0,0.0,0,0,1
 Son Heung-min,South Korea,2,0,0,1.01,1,0,1
 Son Heung-min,South Korea,28,0,0,0.0,0,3,1
 Son Heung-min,South Korea,54,0,0,0.03,0,0,0
@@ -2747,6 +2867,7 @@ Soufiane Rahimi,Morocco,30,0,0,0.0,0,0,0
 Soufiane Rahimi,Morocco,51,1,1,0.12,0,1,1
 Soufiane Rahimi,Morocco,76,0,0,0.74,1,1,0
 Soufiane Rahimi,Morocco,89,1,0,0.58,1,0,0
+Soufiane Rahimi,Morocco,97,0,0,0.0,0,0,0
 Stefan Posch,Austria,20,0,0,0.17,1,0,0
 Stefan Posch,Austria,41,0,0,0.0,0,0,1
 Stefan Posch,Austria,71,0,0,0.0,0,0,0
@@ -2819,11 +2940,13 @@ Thiago Almada,Argentina,19,0,0,0.02,0,0,0
 Thiago Almada,Argentina,41,0,0,0.0,0,0,1
 Thiago Almada,Argentina,72,0,0,0.05,0,1,0
 Thiago Almada,Argentina,87,0,0,0.0,0,2,1
+Thiago Almada,Argentina,100,0,0,0.34,1,1,1
 Thibaut Courtois,Belgium,14,0,0,0.0,0,0,0
 Thibaut Courtois,Belgium,38,0,0,0.0,0,0,0
 Thibaut Courtois,Belgium,66,0,0,0.0,0,0,0
 Thibaut Courtois,Belgium,81,0,0,0.0,0,0,0
 Thibaut Courtois,Belgium,94,0,0,0.0,0,0,0
+Thibaut Courtois,Belgium,98,0,0,0.0,0,0,0
 Thomas Meunier,Belgium,14,0,0,0.07,0,0,1
 Thomas Meunier,Belgium,38,0,0,0.0,0,1,0
 Thomas Meunier,Belgium,81,0,1,0.02,0,0,2
@@ -2847,6 +2970,7 @@ Timothy Castagne,Belgium,38,0,0,0.0,0,0,3
 Timothy Castagne,Belgium,66,0,0,0.05,0,0,0
 Timothy Castagne,Belgium,81,0,0,0.06,0,0,2
 Timothy Castagne,Belgium,94,0,0,0.03,0,0,1
+Timothy Castagne,Belgium,98,0,1,0.0,0,0,1
 Tomás Araújo,Portugal,21,0,0,0.0,0,0,1
 Tomas Chory,Czechia,2,0,0,0.0,0,0,0
 Tomas Chory,Czechia,53,0,0,0.0,0,0,0
@@ -2863,6 +2987,7 @@ Torbjørn Heggem,Norway,18,0,0,0.0,0,0,0
 Torbjørn Heggem,Norway,43,0,0,0.0,0,1,0
 Torbjørn Heggem,Norway,77,0,0,0.38,1,0,0
 Torbjørn Heggem,Norway,91,0,0,0.0,0,0,0
+Torbjørn Heggem,Norway,99,0,0,0.0,0,0,0
 Tshepang Moremi,South Africa,54,0,1,0.0,0,1,1
 Tshepang Moremi,South Africa,73,0,0,0.0,0,0,0
 Tsuyoshi Watanabe,Japan,10,0,0,0.0,0,0,1
@@ -2883,6 +3008,7 @@ Unai Simón,Spain,37,0,0,0.0,0,0,0
 Unai Simón,Spain,64,0,0,0.0,0,0,0
 Unai Simón,Spain,83,0,0,0.0,0,0,0
 Unai Simón,Spain,93,0,0,0.0,0,0,0
+Unai Simón,Spain,98,0,0,0.0,0,0,0
 Utkir Yusupov,Uzbekistan,24,0,0,0.0,0,0,0
 Valentín Barco,Argentina,72,0,0,0.0,0,0,0
 Victor Lindelof,Sweden,12,0,0,0.14,0,0,0
@@ -2918,6 +3044,7 @@ Vozinha,Cape Verde,87,0,0,0.0,0,1,0
 Wagner Pina,Cape Verde,63,0,0,0.14,0,1,2
 Waldemar Anton,Germany,9,0,0,0.0,0,0,0
 Waldemar Anton,Germany,75,0,0,0.19,1,0,1
+Warren Zaïre-Emery,France,97,0,0,0.0,0,0,0
 Weston McKennie,USA,4,0,0,0.0,0,3,3
 Weston McKennie,USA,29,0,0,0.28,1,1,3
 Weston McKennie,USA,60,0,0,0.31,0,2,1
@@ -2929,6 +3056,7 @@ William Saliba,France,17,0,0,0.0,0,0,0
 William Saliba,France,42,0,0,0.05,0,0,0
 William Saliba,France,78,0,0,0.0,0,1,0
 William Saliba,France,90,0,0,0.0,0,0,0
+William Saliba,France,97,0,0,0.0,0,0,1
 Willian Pacho,Ecuador,11,0,0,0.0,0,0,0
 Willian Pacho,Ecuador,35,0,0,0.07,0,0,0
 Willian Pacho,Ecuador,56,0,0,0.0,0,0,0
@@ -3008,9 +3136,11 @@ Zaid Ismail,Iraq,18,0,0,0.0,0,0,0
 Zaid Ismail,Iraq,42,0,0,0.0,0,0,0
 Zaid Tahseen,Iraq,18,0,0,0.12,0,0,0
 Zaid Tahseen,Iraq,42,0,0,0.0,0,0,0
+Zakaria El Ouahdi,Morocco,97,0,0,0.0,0,0,0
 Zeki Amdouni,Switzerland,5,0,0,0.02,0,1,1
 Zeki Amdouni,Switzerland,85,0,0,0.0,0,0,0
 Zeki Amdouni,Switzerland,96,0,0,0.0,0,1,0
+Zeki Amdouni,Switzerland,100,0,0,0.0,0,0,1
 Zeki Celik,Türkiye,8,0,0,0.1,1,0,0
 Zeki Celik,Türkiye,60,0,0,0.0,0,0,0
 Zidane Iqbal,Iraq,18,0,0,0.0,0,2,0

@@ -293,3 +293,6 @@ goal_no,scored_for,scored_by,minute,half,assist_by,goal_type,scored_ag,match_no
 292,Argentina,Lautaro Martínez,121,ET-2,,Regular,Switzerland,100
 293,Spain,Mikel Oyarzabal,22,1,,Penalty,France,101
 294,Spain,Pedro Porro,58,2,Dani Olmo,Regular,France,101
+295,England,Anthony Gordon,55,2,Morgan Rogers,Regular,Argentina,102
+296,Argentina,Enzo Fernández,85,2,Lionel Messi,Regular,England,102
+297,Argentina,Lautaro Martínez,92,2,Lionel Messi,Header,England,102

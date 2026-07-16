@@ -201,3 +201,5 @@ match_no,team,possession,xg,shots,on_target,BCM,yellow_c,red_c,fouls
 100,Switzerland,41,0.47,11,5,0,2,1,18
 101,France,49,0.31,10,3,0,2,0,11
 101,Spain,51,1.63,10,2,1,1,0,12
+102,England,36,0.53,5,2,0,1,0,11
+102,Argentina,64,1.59,15,5,2,3,0,15

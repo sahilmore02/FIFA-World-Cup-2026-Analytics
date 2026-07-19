@@ -296,3 +296,13 @@ goal_no,scored_for,scored_by,minute,half,assist_by,goal_type,scored_ag,match_no
 295,England,Anthony Gordon,55,2,Morgan Rogers,Regular,Argentina,102
 296,Argentina,Enzo Fernández,85,2,Lionel Messi,Regular,England,102
 297,Argentina,Lautaro Martínez,92,2,Lionel Messi,Header,England,102
+298,England,Declan Rice,3,1,,Regular,France,103
+299,England,Ezri Konsa,18,1,Declan Rice,Header,France,103
+300,England,Bukayo Saka,37,1,Marcus Rashford,Regular,France,103
+301,England,Bukayo Saka,46,1,Eberechi Eze,Regular,France,103
+302,France,Kylian Mbappé,48,2,Michael Olise,Regular,England,103
+303,France,Bradley Barcola,54,2,Kylian Mbappé,Regular,England,103
+304,France,Kylian Mbappé,66,2,Michael Olise,Regular,England,103
+305,England,Bukayo Saka,87,2,,Penalty,France,103
+306,France,Ousmane Dembélé,96,2,Dayot Upamecano,Regular,England,103
+307,England,Jude Bellingham,98,2,,Regular,France,103

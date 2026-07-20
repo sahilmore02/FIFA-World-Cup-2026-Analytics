@@ -119,6 +119,7 @@ Alex Baena,Spain,83,0,2,0
 Alex Baena,Spain,93,3,4,0
 Alex Baena,Spain,98,1,3,0
 Álex Baena,Spain,101,1,6,0
+Alex Baena,Spain,104,1,3,0
 Alex Sandro,Brazil,52,0,0,0
 Alex Zendejas,USA,60,1,0,0
 Alexander Bernhardsson,Sweden,12,3,7,0
@@ -156,6 +157,7 @@ Alexis Mac Allister,Argentina,87,4,6,0
 Alexis Mac Allister,Argentina,95,3,3,0
 Alexis Mac Allister,Argentina,100,3,2,0
 Alexis Mac Allister,Argentina,102,1,4,0
+Alexis Mac Allister,Argentina,104,2,5,0
 Alexis Saelemaekers,Belgium,38,1,0,0
 Alexis Saelemaekers,Belgium,66,1,2,0
 Alexis Saelemaekers,Belgium,94,0,2,0
@@ -378,6 +380,7 @@ Aymeric Laporte,Spain,83,3,4,0
 Aymeric Laporte,Spain,93,0,3,0
 Aymeric Laporte,Spain,98,1,6,0
 Aymeric Laporte,Spain,101,0,4,0
+Aymeric Laporte,Spain,104,0,7,0
 Ayoub Al Oui,Qatar,5,0,2,0
 Ayoub Al Oui,Qatar,27,1,2,0
 Ayoub El Kaabi,Morocco,51,3,1,0
@@ -623,6 +626,7 @@ Cristian Romero,Argentina,87,2,4,0
 Cristian Romero,Argentina,95,3,7,0
 Cristian Romero,Argentina,100,2,5,0
 Cristian Romero,Argentina,102,4,4,0
+Cristian Romero,Argentina,104,1,3,0
 Cristian Volpato,Australia,29,0,1,0
 Cristian Volpato,Australia,59,0,3,0
 Cristian Volpato,Australia,86,1,3,0
@@ -670,6 +674,7 @@ Dani Olmo,Spain,83,4,1,0
 Dani Olmo,Spain,93,1,0,0
 Dani Olmo,Spain,98,0,5,0
 Dani Olmo,Spain,101,1,4,0
+Dani Olmo,Spain,104,0,1,0
 Daniel Muñoz,Colombia,24,2,4,0
 Daniel Muñoz,Colombia,48,2,3,0
 Daniel Muñoz,Colombia,69,1,0,0
@@ -895,6 +900,7 @@ Emiliano Martínez,Argentina,87,0,8,3
 Emiliano Martínez,Argentina,95,0,5,0
 Emiliano Martínez,Argentina,100,0,8,4
 Emiliano Martínez,Argentina,102,0,6,1
+Emiliano Martínez,Argentina,104,0,14,11
 Emmanuel Agbadou,Ivory Coast,11,4,4,0
 Emmanuel Agbadou,Ivory Coast,34,1,3,0
 Emmanuel Agbadou,Ivory Coast,77,3,6,0
@@ -912,11 +918,13 @@ Enzo Fernández,Argentina,87,1,6,0
 Enzo Fernández,Argentina,95,1,4,0
 Enzo Fernández,Argentina,100,0,2,0
 Enzo Fernández,Argentina,102,2,1,0
+Enzo Fernández,Argentina,104,1,2,0
 Eray Comert,Switzerland,100,1,0,0
 Eren Elmali,Türkiye,32,0,2,0
 Eren Elmali,Türkiye,60,2,3,0
 Éric Davis,Panama,47,1,1,0
 Éric Davis,Panama,68,0,0,0
+Eric García,Spain,104,0,1,0
 Erik Lira,Mexico,1,2,0,0
 Erik Lira,Mexico,28,2,7,0
 Erik Lira,Mexico,79,1,6,0
@@ -968,6 +976,7 @@ Fabián Ruiz,Spain,83,0,1,0
 Fabián Ruiz,Spain,93,0,0,0
 Fabián Ruiz,Spain,98,1,1,0
 Fabián Ruiz,Spain,101,4,7,0
+Fabián Ruiz,Spain,104,0,1,0
 Fabinho,Brazil,6,1,3,0
 Fabinho,Brazil,52,0,0,0
 Fabinho,Brazil,74,0,0,0
@@ -975,6 +984,7 @@ Facundo Medina,Argentina,19,2,3,0
 Facundo Medina,Argentina,41,3,2,0
 Facundo Medina,Argentina,87,3,4,0
 Facundo Medina,Argentina,95,0,0,0
+Facundo Medina,Argentina,104,1,1,0
 Farès Chaïbi,Algeria,19,2,1,0
 Farès Chaïbi,Algeria,44,2,9,0
 Farès Chaïbi,Algeria,71,1,3,0
@@ -1004,6 +1014,7 @@ Ferran Torres,Spain,83,0,1,0
 Ferran Torres,Spain,93,0,0,0
 Ferran Torres,Spain,98,0,1,0
 Ferran Torres,Spain,101,0,0,0
+Ferran Torres,Spain,104,0,0,0
 Fidel Escobar,Panama,68,2,1,0
 Findlay Curtis,Scotland,7,0,0,0
 Findlay Curtis,Scotland,52,0,0,0
@@ -1104,6 +1115,7 @@ Giovanni Reyna,USA,82,0,0,0
 Giovanni Reyna,USA,94,1,4,0
 Giuliano Simeone,Argentina,72,2,2,0
 Giuliano Simeone,Argentina,102,2,4,0
+Giuliano Simeone,Argentina,104,2,3,0
 Godfried Roemeratoe,Curaçao,35,0,2,0
 Gonçalo Ramos,Portugal,21,0,0,0
 Gonçalo Ramos,Portugal,84,0,0,0
@@ -1112,6 +1124,7 @@ Gonzalo Montiel,Argentina,87,0,0,0
 Gonzalo Montiel,Argentina,95,0,0,0
 Gonzalo Montiel,Argentina,100,0,0,0
 Gonzalo Montiel,Argentina,102,0,0,0
+Gonzalo Montiel,Argentina,104,1,2,0
 Gonzalo Plata,Ecuador,11,3,8,0
 Gonzalo Plata,Ecuador,35,2,6,0
 Gonzalo Plata,Ecuador,56,3,5,0
@@ -1639,6 +1652,7 @@ Julián Alvarez,Argentina,87,0,1,0
 Julián Alvarez,Argentina,95,1,2,0
 Julián Alvarez,Argentina,100,2,6,0
 Julián Álvarez,Argentina,102,0,1,0
+Julián Alvarez,Argentina,104,1,3,0
 Julian Quinones,Mexico,1,0,0,0
 Julian Quinones,Mexico,28,0,3,0
 Julian Quinones,Mexico,53,2,4,0
@@ -1803,6 +1817,7 @@ Lamine Yamal,Spain,83,0,5,0
 Lamine Yamal,Spain,93,5,6,0
 Lamine Yamal,Spain,98,1,4,0
 Lamine Yamal,Spain,101,0,2,0
+Lamine Yamal,Spain,104,3,4,0
 Laros Duarte,Cape Verde,13,0,2,0
 Laros Duarte,Cape Verde,39,0,1,0
 Laros Duarte,Cape Verde,63,0,1,0
@@ -1827,6 +1842,7 @@ Leandro Paredes,Argentina,87,1,0,0
 Leandro Paredes,Argentina,95,3,11,0
 Leandro Paredes,Argentina,100,1,4,0
 Leandro Paredes,Argentina,102,4,1,0
+Leandro Paredes,Argentina,104,1,2,0
 Leandro Trossard,Belgium,14,2,3,0
 Leandro Trossard,Belgium,38,2,9,0
 Leandro Trossard,Belgium,66,1,4,0
@@ -1866,6 +1882,7 @@ Lionel Messi,Argentina,87,1,1,0
 Lionel Messi,Argentina,95,1,2,0
 Lionel Messi,Argentina,100,3,5,0
 Lionel Messi,Argentina,102,1,2,0
+Lionel Messi,Argentina,104,1,1,0
 Lionel Mpasi Nzau,DR Congo,21,0,7,0
 Lionel Mpasi Nzau,DR Congo,48,0,6,8
 Lionel Mpasi Nzau,DR Congo,70,0,6,1
@@ -1876,6 +1893,7 @@ Lisandro Martínez,Argentina,87,0,4,0
 Lisandro Martínez,Argentina,95,4,1,0
 Lisandro Martínez,Argentina,100,4,3,0
 Lisandro Martínez,Argentina,102,0,1,0
+Lisandro Martínez,Argentina,104,1,2,0
 Livano Comenencia,Curaçao,9,0,5,0
 Livano Comenencia,Curaçao,35,0,1,0
 Livano Comenencia,Curaçao,55,2,4,0
@@ -1992,6 +2010,7 @@ Marc Cucurella,Spain,83,0,4,0
 Marc Cucurella,Spain,93,0,5,0
 Marc Cucurella,Spain,98,1,2,0
 Marc Cucurella,Spain,101,4,4,0
+Marc Cucurella,Spain,104,1,5,0
 Marc Guéhi,England,22,0,1,0
 Marc Guéhi,England,46,0,2,0
 Marc Guéhi,England,68,0,5,0
@@ -2013,6 +2032,7 @@ Marcos Llorente,Spain,13,2,4,0
 Marcos Llorente,Spain,64,4,6,0
 Marcos Llorente,Spain,101,1,0,0
 Marcos Senesi,Argentina,72,0,4,0
+Marcos Senesi,Argentina,104,0,1,0
 Marcus Pedersen,Norway,43,0,1,0
 Marcus Pedersen,Norway,61,1,0,0
 Marcus Pedersen,Norway,77,0,2,0
@@ -2059,6 +2079,7 @@ Martin Ødegaard,Norway,43,1,6,0
 Martin Ødegaard,Norway,77,3,3,0
 Martin Ødegaard,Norway,91,0,2,0
 Martin Ødegaard,Norway,99,0,5,0
+Martín Zubimendi,Spain,104,1,1,0
 Marvin Senaya,Ghana,23,5,2,0
 Marvin Senaya,Ghana,46,7,1,0
 Marvin Senaya,Ghana,67,6,1,0
@@ -2194,6 +2215,7 @@ Mikel Merino,Spain,83,0,0,0
 Mikel Merino,Spain,93,0,1,0
 Mikel Merino,Spain,98,0,0,0
 Mikel Merino,Spain,101,1,1,0
+Mikel Merino,Spain,104,0,2,0
 Mikel Oyarzabal,Spain,13,1,0,0
 Mikel Oyarzabal,Spain,37,1,4,0
 Mikel Oyarzabal,Spain,64,0,2,0
@@ -2201,6 +2223,7 @@ Mikel Oyarzabal,Spain,83,1,2,0
 Mikel Oyarzabal,Spain,93,0,1,0
 Mikel Oyarzabal,Spain,98,2,1,0
 Mikel Oyarzabal,Spain,101,0,2,0
+Mikel Oyarzabal,Spain,104,1,2,0
 Milad Mohammadi,Iran,16,2,0,0
 Milad Mohammadi,Iran,38,1,3,0
 Milad Mohammadi,Iran,65,4,4,0
@@ -2314,6 +2337,7 @@ Nahuel Molina,Argentina,87,3,2,0
 Nahuel Molina,Argentina,95,3,5,0
 Nahuel Molina,Argentina,100,1,2,0
 Nahuel Molina,Argentina,102,2,2,0
+Nahuel Molina,Argentina,104,3,5,0
 Nasser Al-Dawsari,Saudi Arabia,15,1,1,0
 Nasser Al-Dawsari,Saudi Arabia,37,2,6,0
 Nasser Al-Dawsari,Saudi Arabia,63,2,4,0
@@ -2381,6 +2405,7 @@ Nico Williams,Spain,37,0,1,0
 Nico Williams,Spain,64,0,0,0
 Nico Williams,Spain,98,0,1,0
 Nico Williams,Spain,101,1,2,0
+Nico Williams,Spain,104,0,1,0
 Nicolás de la Cruz,Uruguay,15,0,1,0
 Nicolás de la Cruz,Uruguay,39,1,3,0
 Nicolás de la Cruz,Uruguay,64,1,2,0
@@ -2390,6 +2415,7 @@ Nicolás González,Argentina,87,3,2,0
 Nicolás González,Argentina,95,0,3,0
 Nicolás González,Argentina,100,0,4,0
 Nicolás González,Argentina,102,2,2,0
+Nicolás González,Argentina,104,0,4,0
 Nicolas Jackson,Senegal,17,1,2,0
 Nicolas Jackson,Senegal,43,0,2,0
 Nicolas Jackson,Senegal,62,1,1,0
@@ -2400,6 +2426,7 @@ Nicolás Otamendi,Argentina,72,1,2,0
 Nicolás Otamendi,Argentina,95,0,0,0
 Nicolás Otamendi,Argentina,100,1,0,0
 Nicolás Otamendi,Argentina,102,0,1,0
+Nicolás Otamendi,Argentina,104,0,0,0
 Nicolas Pepe,Ivory Coast,11,0,6,0
 Nicolas Pepe,Ivory Coast,34,0,1,0
 Nicolas Pepe,Ivory Coast,55,0,5,0
@@ -2420,6 +2447,7 @@ Nicolás Tagliafico,Argentina,87,3,0,0
 Nicolás Tagliafico,Argentina,95,0,0,0
 Nicolás Tagliafico,Argentina,100,0,1,0
 Nicolás Tagliafico,Argentina,102,2,0,0
+Nicolás Tagliafico,Argentina,104,3,5,0
 Niko Sigur,Canada,27,0,0,0
 Niko Sigur,Canada,73,0,2,0
 Niko Sigur,Canada,89,1,3,0
@@ -2581,6 +2609,7 @@ Pau Cubarsí,Spain,83,2,2,0
 Pau Cubarsí,Spain,93,0,1,0
 Pau Cubarsí,Spain,98,1,3,0
 Pau Cubarsí,Spain,101,2,2,0
+Pau Cubarsí,Spain,104,2,5,0
 Paul Okon-Engstler,Australia,8,3,3,0
 Paul Okon-Engstler,Australia,29,2,2,0
 Paul Okon-Engstler,Australia,59,0,0,0
@@ -2599,6 +2628,7 @@ Pedri,Spain,83,3,4,0
 Pedri,Spain,93,1,4,0
 Pedri,Spain,98,0,4,0
 Pedri,Spain,101,1,1,0
+Pedri,Spain,104,2,7,0
 Pedro Miguel,Qatar,5,1,1,0
 Pedro Miguel,Qatar,27,1,1,0
 Pedro Miguel,Qatar,49,4,3,0
@@ -2612,6 +2642,7 @@ Pedro Porro,Spain,83,1,7,0
 Pedro Porro,Spain,93,4,2,0
 Pedro Porro,Spain,98,2,4,0
 Pedro Porro,Spain,101,2,3,0
+Pedro Porro,Spain,104,2,7,0
 Pedro Vite,Ecuador,11,3,6,0
 Pedro Vite,Ecuador,35,2,8,0
 Pedro Vite,Ecuador,56,9,9,0
@@ -2770,6 +2801,7 @@ Rodri,Spain,83,5,6,0
 Rodri,Spain,93,4,7,0
 Rodri,Spain,98,1,2,0
 Rodri,Spain,101,4,2,0
+Rodri,Spain,104,4,6,0
 Rodrigo Aguirre,Uruguay,15,0,0,0
 Rodrigo Bentancur,Uruguay,15,1,11,0
 Rodrigo Bentancur,Uruguay,39,2,8,0
@@ -2780,6 +2812,7 @@ Rodrigo De Paul,Argentina,87,1,2,0
 Rodrigo De Paul,Argentina,95,1,4,0
 Rodrigo De Paul,Argentina,100,0,5,0
 Rodrigo De Paul,Argentina,102,0,4,0
+Rodrigo De Paul,Argentina,104,0,3,0
 Roger Ibanez,Brazil,6,2,2,0
 Romano Schmid,Austria,20,1,4,0
 Romano Schmid,Austria,41,3,4,0
@@ -3102,6 +3135,7 @@ Unai Simón,Spain,83,0,6,0
 Unai Simón,Spain,93,0,13,2
 Unai Simón,Spain,98,0,12,1
 Unai Simón,Spain,101,0,10,3
+Unai Simón,Spain,104,0,8,0
 Utkir Yusupov,Uzbekistan,24,0,13,1
 Valentín Barco,Argentina,72,1,2,0
 Victor Lindelof,Sweden,12,1,2,0
